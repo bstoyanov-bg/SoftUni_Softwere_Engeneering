@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P04_CleverLilyExam/1.0.0": {
+        "runtime": {
+          "P04_CleverLilyExam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P04_CleverLilyExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

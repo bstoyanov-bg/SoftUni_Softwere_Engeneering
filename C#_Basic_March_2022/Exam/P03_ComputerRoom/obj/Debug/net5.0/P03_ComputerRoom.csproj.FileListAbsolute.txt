@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\bin\Debug\net5.0\P03_ComputerRoom.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\bin\Debug\net5.0\P03_ComputerRoom.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\bin\Debug\net5.0\P03_ComputerRoom.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\bin\Debug\net5.0\P03_ComputerRoom.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\bin\Debug\net5.0\P03_ComputerRoom.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\bin\Debug\net5.0\ref\P03_ComputerRoom.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\bin\Debug\net5.0\P03_ComputerRoom.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\obj\Debug\net5.0\P03_ComputerRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\obj\Debug\net5.0\P03_ComputerRoom.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\obj\Debug\net5.0\P03_ComputerRoom.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\obj\Debug\net5.0\P03_ComputerRoom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\obj\Debug\net5.0\P03_ComputerRoom.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\obj\Debug\net5.0\ref\P03_ComputerRoom.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\obj\Debug\net5.0\P03_ComputerRoom.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\obj\Debug\net5.0\P03_ComputerRoom.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P03_ComputerRoom\obj\Debug\net5.0\P03_ComputerRoom.csproj.AssemblyReference.cache

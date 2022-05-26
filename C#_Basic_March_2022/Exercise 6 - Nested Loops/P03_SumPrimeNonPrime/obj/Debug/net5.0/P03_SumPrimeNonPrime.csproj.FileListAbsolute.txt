@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\bin\Debug\net5.0\P03_SumPrimeNonPrime.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\bin\Debug\net5.0\P03_SumPrimeNonPrime.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\bin\Debug\net5.0\P03_SumPrimeNonPrime.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\bin\Debug\net5.0\P03_SumPrimeNonPrime.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\bin\Debug\net5.0\P03_SumPrimeNonPrime.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\bin\Debug\net5.0\ref\P03_SumPrimeNonPrime.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\bin\Debug\net5.0\P03_SumPrimeNonPrime.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\obj\Debug\net5.0\P03_SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\obj\Debug\net5.0\P03_SumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\obj\Debug\net5.0\P03_SumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\obj\Debug\net5.0\P03_SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\obj\Debug\net5.0\P03_SumPrimeNonPrime.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\obj\Debug\net5.0\ref\P03_SumPrimeNonPrime.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\obj\Debug\net5.0\P03_SumPrimeNonPrime.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\obj\Debug\net5.0\P03_SumPrimeNonPrime.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P03_SumPrimeNonPrime\obj\Debug\net5.0\P03_SumPrimeNonPrime.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\bin\Debug\net5.0\P03_VacationProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\bin\Debug\net5.0\P03_VacationProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\bin\Debug\net5.0\P03_VacationProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\bin\Debug\net5.0\P03_VacationProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\bin\Debug\net5.0\P03_VacationProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\bin\Debug\net5.0\ref\P03_VacationProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\bin\Debug\net5.0\P03_VacationProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\obj\Debug\net5.0\P03_VacationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\obj\Debug\net5.0\P03_VacationProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\obj\Debug\net5.0\P03_VacationProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\obj\Debug\net5.0\P03_VacationProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\obj\Debug\net5.0\P03_VacationProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\obj\Debug\net5.0\ref\P03_VacationProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\obj\Debug\net5.0\P03_VacationProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\obj\Debug\net5.0\P03_VacationProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P03_VacationProject\obj\Debug\net5.0\P03_VacationProject.csproj.AssemblyReference.cache

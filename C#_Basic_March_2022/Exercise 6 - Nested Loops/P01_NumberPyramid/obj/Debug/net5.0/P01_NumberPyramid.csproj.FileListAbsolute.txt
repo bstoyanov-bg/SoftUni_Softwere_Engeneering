@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\bin\Debug\net5.0\P01_NumberPyramid.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\bin\Debug\net5.0\P01_NumberPyramid.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\bin\Debug\net5.0\P01_NumberPyramid.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\bin\Debug\net5.0\P01_NumberPyramid.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\bin\Debug\net5.0\P01_NumberPyramid.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\bin\Debug\net5.0\ref\P01_NumberPyramid.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\bin\Debug\net5.0\P01_NumberPyramid.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\obj\Debug\net5.0\P01_NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\obj\Debug\net5.0\P01_NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\obj\Debug\net5.0\P01_NumberPyramid.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\obj\Debug\net5.0\P01_NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\obj\Debug\net5.0\P01_NumberPyramid.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\obj\Debug\net5.0\ref\P01_NumberPyramid.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\obj\Debug\net5.0\P01_NumberPyramid.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\obj\Debug\net5.0\P01_NumberPyramid.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P01_NumberPyramid\obj\Debug\net5.0\P01_NumberPyramid.csproj.AssemblyReference.cache

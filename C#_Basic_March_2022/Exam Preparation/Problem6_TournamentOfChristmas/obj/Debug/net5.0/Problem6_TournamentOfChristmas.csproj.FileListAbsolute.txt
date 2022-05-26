@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\bin\Debug\net5.0\Problem6_TournamentOfChristmas.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\bin\Debug\net5.0\Problem6_TournamentOfChristmas.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\bin\Debug\net5.0\Problem6_TournamentOfChristmas.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\bin\Debug\net5.0\Problem6_TournamentOfChristmas.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\bin\Debug\net5.0\Problem6_TournamentOfChristmas.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\bin\Debug\net5.0\ref\Problem6_TournamentOfChristmas.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\bin\Debug\net5.0\Problem6_TournamentOfChristmas.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\obj\Debug\net5.0\Problem6_TournamentOfChristmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\obj\Debug\net5.0\Problem6_TournamentOfChristmas.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\obj\Debug\net5.0\Problem6_TournamentOfChristmas.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\obj\Debug\net5.0\Problem6_TournamentOfChristmas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\obj\Debug\net5.0\Problem6_TournamentOfChristmas.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\obj\Debug\net5.0\ref\Problem6_TournamentOfChristmas.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\obj\Debug\net5.0\Problem6_TournamentOfChristmas.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\obj\Debug\net5.0\Problem6_TournamentOfChristmas.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem6_TournamentOfChristmas\obj\Debug\net5.0\Problem6_TournamentOfChristmas.csproj.AssemblyReference.cache

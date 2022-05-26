@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P09_SkiTripProect/1.0.0": {
+        "runtime": {
+          "P09_SkiTripProect.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P09_SkiTripProect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

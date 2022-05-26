@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\bin\Debug\net5.0\P05_SalaryExam.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\bin\Debug\net5.0\P05_SalaryExam.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\bin\Debug\net5.0\P05_SalaryExam.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\bin\Debug\net5.0\P05_SalaryExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\bin\Debug\net5.0\P05_SalaryExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\bin\Debug\net5.0\ref\P05_SalaryExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\bin\Debug\net5.0\P05_SalaryExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\obj\Debug\net5.0\P05_SalaryExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\obj\Debug\net5.0\P05_SalaryExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\obj\Debug\net5.0\P05_SalaryExam.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\obj\Debug\net5.0\P05_SalaryExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\obj\Debug\net5.0\P05_SalaryExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\obj\Debug\net5.0\ref\P05_SalaryExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\obj\Debug\net5.0\P05_SalaryExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P05_SalaryExam\obj\Debug\net5.0\P05_SalaryExam.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\bin\Debug\net5.0\P02_ExamPreparationProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\bin\Debug\net5.0\P02_ExamPreparationProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\bin\Debug\net5.0\P02_ExamPreparationProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\bin\Debug\net5.0\P02_ExamPreparationProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\bin\Debug\net5.0\P02_ExamPreparationProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\bin\Debug\net5.0\ref\P02_ExamPreparationProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\bin\Debug\net5.0\P02_ExamPreparationProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\obj\Debug\net5.0\P02_ExamPreparationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\obj\Debug\net5.0\P02_ExamPreparationProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\obj\Debug\net5.0\P02_ExamPreparationProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\obj\Debug\net5.0\P02_ExamPreparationProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\obj\Debug\net5.0\P02_ExamPreparationProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\obj\Debug\net5.0\ref\P02_ExamPreparationProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\obj\Debug\net5.0\P02_ExamPreparationProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\obj\Debug\net5.0\P02_ExamPreparationProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P02_ExamPreparationProject\obj\Debug\net5.0\P02_ExamPreparationProject.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\bin\Debug\net5.0\P03_Histogram.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\bin\Debug\net5.0\P03_Histogram.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\bin\Debug\net5.0\P03_Histogram.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\bin\Debug\net5.0\P03_Histogram.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\bin\Debug\net5.0\P03_Histogram.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\bin\Debug\net5.0\ref\P03_Histogram.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\bin\Debug\net5.0\P03_Histogram.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\obj\Debug\net5.0\P03_Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\obj\Debug\net5.0\P03_Histogram.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\obj\Debug\net5.0\P03_Histogram.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\obj\Debug\net5.0\P03_Histogram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\obj\Debug\net5.0\P03_Histogram.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\obj\Debug\net5.0\ref\P03_Histogram.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\obj\Debug\net5.0\P03_Histogram.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\obj\Debug\net5.0\P03_Histogram.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P03_Histogram\obj\Debug\net5.0\P03_Histogram.csproj.AssemblyReference.cache

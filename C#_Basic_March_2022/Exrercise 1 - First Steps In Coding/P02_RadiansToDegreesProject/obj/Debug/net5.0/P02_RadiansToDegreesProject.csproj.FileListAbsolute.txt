@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\bin\Debug\net5.0\P02_RadiansToDegreesProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\bin\Debug\net5.0\P02_RadiansToDegreesProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\bin\Debug\net5.0\P02_RadiansToDegreesProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\bin\Debug\net5.0\P02_RadiansToDegreesProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\bin\Debug\net5.0\P02_RadiansToDegreesProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\bin\Debug\net5.0\ref\P02_RadiansToDegreesProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\bin\Debug\net5.0\P02_RadiansToDegreesProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\obj\Debug\net5.0\P02_RadiansToDegreesProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\obj\Debug\net5.0\P02_RadiansToDegreesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\obj\Debug\net5.0\P02_RadiansToDegreesProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\obj\Debug\net5.0\P02_RadiansToDegreesProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\obj\Debug\net5.0\P02_RadiansToDegreesProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\obj\Debug\net5.0\P02_RadiansToDegreesProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\obj\Debug\net5.0\ref\P02_RadiansToDegreesProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\obj\Debug\net5.0\P02_RadiansToDegreesProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P02_RadiansToDegreesProject\obj\Debug\net5.0\P02_RadiansToDegreesProject.genruntimeconfig.cache

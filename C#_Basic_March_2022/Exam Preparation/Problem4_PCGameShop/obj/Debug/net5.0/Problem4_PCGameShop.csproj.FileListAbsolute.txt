@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\bin\Debug\net5.0\Problem4_PCGameShop.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\bin\Debug\net5.0\Problem4_PCGameShop.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\bin\Debug\net5.0\Problem4_PCGameShop.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\bin\Debug\net5.0\Problem4_PCGameShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\bin\Debug\net5.0\Problem4_PCGameShop.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\bin\Debug\net5.0\ref\Problem4_PCGameShop.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\bin\Debug\net5.0\Problem4_PCGameShop.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\obj\Debug\net5.0\Problem4_PCGameShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\obj\Debug\net5.0\Problem4_PCGameShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\obj\Debug\net5.0\Problem4_PCGameShop.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\obj\Debug\net5.0\Problem4_PCGameShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\obj\Debug\net5.0\Problem4_PCGameShop.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\obj\Debug\net5.0\ref\Problem4_PCGameShop.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\obj\Debug\net5.0\Problem4_PCGameShop.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem4_PCGameShop\obj\Debug\net5.0\Problem4_PCGameShop.genruntimeconfig.cache

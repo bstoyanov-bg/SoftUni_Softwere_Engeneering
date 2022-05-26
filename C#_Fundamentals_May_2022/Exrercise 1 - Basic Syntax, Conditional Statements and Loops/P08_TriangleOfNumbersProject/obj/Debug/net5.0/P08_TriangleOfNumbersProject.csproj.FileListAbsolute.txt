@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\bin\Debug\net5.0\P08_TriangleOfNumbersProject.exe
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\bin\Debug\net5.0\P08_TriangleOfNumbersProject.deps.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\bin\Debug\net5.0\P08_TriangleOfNumbersProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\bin\Debug\net5.0\P08_TriangleOfNumbersProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\bin\Debug\net5.0\P08_TriangleOfNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\bin\Debug\net5.0\ref\P08_TriangleOfNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\bin\Debug\net5.0\P08_TriangleOfNumbersProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\obj\Debug\net5.0\P08_TriangleOfNumbersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\obj\Debug\net5.0\P08_TriangleOfNumbersProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\obj\Debug\net5.0\P08_TriangleOfNumbersProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\obj\Debug\net5.0\P08_TriangleOfNumbersProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\obj\Debug\net5.0\P08_TriangleOfNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\obj\Debug\net5.0\ref\P08_TriangleOfNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\obj\Debug\net5.0\P08_TriangleOfNumbersProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\obj\Debug\net5.0\P08_TriangleOfNumbersProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P08_TriangleOfNumbersProject\obj\Debug\net5.0\P08_TriangleOfNumbersProject.csproj.AssemblyReference.cache

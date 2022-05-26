@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\bin\Debug\net5.0\P08_TennisRanklistExam.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\bin\Debug\net5.0\P08_TennisRanklistExam.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\bin\Debug\net5.0\P08_TennisRanklistExam.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\bin\Debug\net5.0\P08_TennisRanklistExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\bin\Debug\net5.0\P08_TennisRanklistExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\bin\Debug\net5.0\ref\P08_TennisRanklistExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\bin\Debug\net5.0\P08_TennisRanklistExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\obj\Debug\net5.0\P08_TennisRanklistExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\obj\Debug\net5.0\P08_TennisRanklistExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\obj\Debug\net5.0\P08_TennisRanklistExam.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\obj\Debug\net5.0\P08_TennisRanklistExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\obj\Debug\net5.0\P08_TennisRanklistExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\obj\Debug\net5.0\ref\P08_TennisRanklistExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\obj\Debug\net5.0\P08_TennisRanklistExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\obj\Debug\net5.0\P08_TennisRanklistExam.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P08_TennisRanklistExam\obj\Debug\net5.0\P08_TennisRanklistExam.csproj.AssemblyReference.cache

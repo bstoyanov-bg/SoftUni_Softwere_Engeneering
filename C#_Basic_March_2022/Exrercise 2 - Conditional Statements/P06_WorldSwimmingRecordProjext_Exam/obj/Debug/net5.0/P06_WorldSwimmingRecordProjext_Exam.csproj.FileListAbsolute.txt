@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\bin\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\bin\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\bin\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\bin\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\bin\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\bin\Debug\net5.0\ref\P06_WorldSwimmingRecordProjext_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\bin\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\obj\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\obj\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\obj\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\obj\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\obj\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\obj\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\obj\Debug\net5.0\ref\P06_WorldSwimmingRecordProjext_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\obj\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P06_WorldSwimmingRecordProjext_Exam\obj\Debug\net5.0\P06_WorldSwimmingRecordProjext_Exam.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\bin\Debug\net5.0\P09_PadawanEquipmentProject.exe
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\bin\Debug\net5.0\P09_PadawanEquipmentProject.deps.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\bin\Debug\net5.0\P09_PadawanEquipmentProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\bin\Debug\net5.0\P09_PadawanEquipmentProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\bin\Debug\net5.0\P09_PadawanEquipmentProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\bin\Debug\net5.0\ref\P09_PadawanEquipmentProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\bin\Debug\net5.0\P09_PadawanEquipmentProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\obj\Debug\net5.0\P09_PadawanEquipmentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\obj\Debug\net5.0\P09_PadawanEquipmentProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\obj\Debug\net5.0\P09_PadawanEquipmentProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\obj\Debug\net5.0\P09_PadawanEquipmentProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\obj\Debug\net5.0\P09_PadawanEquipmentProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\obj\Debug\net5.0\ref\P09_PadawanEquipmentProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\obj\Debug\net5.0\P09_PadawanEquipmentProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\obj\Debug\net5.0\P09_PadawanEquipmentProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P09_PadawanEquipmentProject\obj\Debug\net5.0\P09_PadawanEquipmentProject.csproj.AssemblyReference.cache

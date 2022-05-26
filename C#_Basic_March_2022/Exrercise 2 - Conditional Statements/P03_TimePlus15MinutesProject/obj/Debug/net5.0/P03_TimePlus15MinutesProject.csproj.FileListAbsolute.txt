@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\bin\Debug\net5.0\P03_TimePlus15MinutesProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\bin\Debug\net5.0\P03_TimePlus15MinutesProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\bin\Debug\net5.0\P03_TimePlus15MinutesProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\bin\Debug\net5.0\P03_TimePlus15MinutesProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\bin\Debug\net5.0\P03_TimePlus15MinutesProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\bin\Debug\net5.0\ref\P03_TimePlus15MinutesProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\bin\Debug\net5.0\P03_TimePlus15MinutesProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\obj\Debug\net5.0\P03_TimePlus15MinutesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\obj\Debug\net5.0\P03_TimePlus15MinutesProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\obj\Debug\net5.0\P03_TimePlus15MinutesProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\obj\Debug\net5.0\P03_TimePlus15MinutesProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\obj\Debug\net5.0\P03_TimePlus15MinutesProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\obj\Debug\net5.0\ref\P03_TimePlus15MinutesProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\obj\Debug\net5.0\P03_TimePlus15MinutesProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P03_TimePlus15MinutesProject\obj\Debug\net5.0\P03_TimePlus15MinutesProject.genruntimeconfig.cache

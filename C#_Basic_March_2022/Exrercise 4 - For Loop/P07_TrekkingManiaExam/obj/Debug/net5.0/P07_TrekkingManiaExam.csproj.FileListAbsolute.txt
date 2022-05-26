@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\bin\Debug\net5.0\P07_TrekkingManiaExam.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\bin\Debug\net5.0\P07_TrekkingManiaExam.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\bin\Debug\net5.0\P07_TrekkingManiaExam.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\bin\Debug\net5.0\P07_TrekkingManiaExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\bin\Debug\net5.0\P07_TrekkingManiaExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\bin\Debug\net5.0\ref\P07_TrekkingManiaExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\bin\Debug\net5.0\P07_TrekkingManiaExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\obj\Debug\net5.0\P07_TrekkingManiaExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\obj\Debug\net5.0\P07_TrekkingManiaExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\obj\Debug\net5.0\P07_TrekkingManiaExam.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\obj\Debug\net5.0\P07_TrekkingManiaExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\obj\Debug\net5.0\P07_TrekkingManiaExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\obj\Debug\net5.0\ref\P07_TrekkingManiaExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\obj\Debug\net5.0\P07_TrekkingManiaExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P07_TrekkingManiaExam\obj\Debug\net5.0\P07_TrekkingManiaExam.genruntimeconfig.cache

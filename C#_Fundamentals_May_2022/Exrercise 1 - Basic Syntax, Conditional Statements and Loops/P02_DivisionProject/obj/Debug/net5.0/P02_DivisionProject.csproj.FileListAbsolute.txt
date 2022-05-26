@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\bin\Debug\net5.0\P02_DivisionProject.exe
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\bin\Debug\net5.0\P02_DivisionProject.deps.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\bin\Debug\net5.0\P02_DivisionProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\bin\Debug\net5.0\P02_DivisionProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\bin\Debug\net5.0\P02_DivisionProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\bin\Debug\net5.0\ref\P02_DivisionProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\bin\Debug\net5.0\P02_DivisionProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\obj\Debug\net5.0\P02_DivisionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\obj\Debug\net5.0\P02_DivisionProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\obj\Debug\net5.0\P02_DivisionProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\obj\Debug\net5.0\P02_DivisionProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\obj\Debug\net5.0\P02_DivisionProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\obj\Debug\net5.0\ref\P02_DivisionProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\obj\Debug\net5.0\P02_DivisionProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\obj\Debug\net5.0\P02_DivisionProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\P02_DivisionProject\obj\Debug\net5.0\P02_DivisionProject.csproj.AssemblyReference.cache

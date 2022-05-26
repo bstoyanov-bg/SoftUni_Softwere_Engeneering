@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\bin\Debug\net5.0\P05_ChristmasGifts.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\bin\Debug\net5.0\P05_ChristmasGifts.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\bin\Debug\net5.0\P05_ChristmasGifts.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\bin\Debug\net5.0\P05_ChristmasGifts.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\bin\Debug\net5.0\P05_ChristmasGifts.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\bin\Debug\net5.0\ref\P05_ChristmasGifts.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\bin\Debug\net5.0\P05_ChristmasGifts.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\obj\Debug\net5.0\P05_ChristmasGifts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\obj\Debug\net5.0\P05_ChristmasGifts.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\obj\Debug\net5.0\P05_ChristmasGifts.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\obj\Debug\net5.0\P05_ChristmasGifts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\obj\Debug\net5.0\P05_ChristmasGifts.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\obj\Debug\net5.0\ref\P05_ChristmasGifts.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\obj\Debug\net5.0\P05_ChristmasGifts.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P05_ChristmasGifts\obj\Debug\net5.0\P05_ChristmasGifts.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\bin\Debug\net5.0\P06_CinemaTickets.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\bin\Debug\net5.0\P06_CinemaTickets.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\bin\Debug\net5.0\P06_CinemaTickets.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\bin\Debug\net5.0\P06_CinemaTickets.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\bin\Debug\net5.0\P06_CinemaTickets.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\bin\Debug\net5.0\ref\P06_CinemaTickets.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\bin\Debug\net5.0\P06_CinemaTickets.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\obj\Debug\net5.0\P06_CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\obj\Debug\net5.0\P06_CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\obj\Debug\net5.0\P06_CinemaTickets.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\obj\Debug\net5.0\P06_CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\obj\Debug\net5.0\P06_CinemaTickets.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\obj\Debug\net5.0\ref\P06_CinemaTickets.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\obj\Debug\net5.0\P06_CinemaTickets.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P06_CinemaTickets\obj\Debug\net5.0\P06_CinemaTickets.genruntimeconfig.cache

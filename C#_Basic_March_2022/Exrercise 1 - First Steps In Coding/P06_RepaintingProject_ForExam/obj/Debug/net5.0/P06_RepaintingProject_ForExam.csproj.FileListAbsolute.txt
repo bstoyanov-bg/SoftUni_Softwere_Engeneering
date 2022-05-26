@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\bin\Debug\net5.0\P06_RepaintingProject_ForExam.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\bin\Debug\net5.0\P06_RepaintingProject_ForExam.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\bin\Debug\net5.0\P06_RepaintingProject_ForExam.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\bin\Debug\net5.0\P06_RepaintingProject_ForExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\bin\Debug\net5.0\P06_RepaintingProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\bin\Debug\net5.0\ref\P06_RepaintingProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\bin\Debug\net5.0\P06_RepaintingProject_ForExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\obj\Debug\net5.0\P06_RepaintingProject_ForExam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\obj\Debug\net5.0\P06_RepaintingProject_ForExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\obj\Debug\net5.0\P06_RepaintingProject_ForExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\obj\Debug\net5.0\P06_RepaintingProject_ForExam.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\obj\Debug\net5.0\P06_RepaintingProject_ForExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\obj\Debug\net5.0\P06_RepaintingProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\obj\Debug\net5.0\ref\P06_RepaintingProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\obj\Debug\net5.0\P06_RepaintingProject_ForExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P06_RepaintingProject_ForExam\obj\Debug\net5.0\P06_RepaintingProject_ForExam.genruntimeconfig.cache

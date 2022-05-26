@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\bin\Debug\net5.0\P02_SummerOutfitProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\bin\Debug\net5.0\P02_SummerOutfitProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\bin\Debug\net5.0\P02_SummerOutfitProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\bin\Debug\net5.0\P02_SummerOutfitProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\bin\Debug\net5.0\P02_SummerOutfitProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\bin\Debug\net5.0\ref\P02_SummerOutfitProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\bin\Debug\net5.0\P02_SummerOutfitProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\obj\Debug\net5.0\P02_SummerOutfitProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\obj\Debug\net5.0\P02_SummerOutfitProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\obj\Debug\net5.0\P02_SummerOutfitProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\obj\Debug\net5.0\P02_SummerOutfitProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\obj\Debug\net5.0\P02_SummerOutfitProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\obj\Debug\net5.0\ref\P02_SummerOutfitProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\obj\Debug\net5.0\P02_SummerOutfitProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\obj\Debug\net5.0\P02_SummerOutfitProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P02_SummerOutfitProject\obj\Debug\net5.0\P02_SummerOutfitProject.csproj.AssemblyReference.cache

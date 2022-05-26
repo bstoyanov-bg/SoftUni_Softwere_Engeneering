@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\bin\Debug\net5.0\P03_DepositCalculatorProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\bin\Debug\net5.0\P03_DepositCalculatorProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\bin\Debug\net5.0\P03_DepositCalculatorProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\bin\Debug\net5.0\P03_DepositCalculatorProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\bin\Debug\net5.0\P03_DepositCalculatorProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\bin\Debug\net5.0\ref\P03_DepositCalculatorProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\bin\Debug\net5.0\P03_DepositCalculatorProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\obj\Debug\net5.0\P03_DepositCalculatorProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\obj\Debug\net5.0\P03_DepositCalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\obj\Debug\net5.0\P03_DepositCalculatorProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\obj\Debug\net5.0\P03_DepositCalculatorProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\obj\Debug\net5.0\P03_DepositCalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\obj\Debug\net5.0\P03_DepositCalculatorProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\obj\Debug\net5.0\ref\P03_DepositCalculatorProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\obj\Debug\net5.0\P03_DepositCalculatorProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P03_DepositCalculatorProject\obj\Debug\net5.0\P03_DepositCalculatorProject.genruntimeconfig.cache

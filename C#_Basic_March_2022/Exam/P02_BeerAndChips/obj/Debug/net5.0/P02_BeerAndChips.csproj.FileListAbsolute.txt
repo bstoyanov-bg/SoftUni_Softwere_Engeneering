@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\bin\Debug\net5.0\P02_BeerAndChips.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\bin\Debug\net5.0\P02_BeerAndChips.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\bin\Debug\net5.0\P02_BeerAndChips.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\bin\Debug\net5.0\P02_BeerAndChips.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\bin\Debug\net5.0\P02_BeerAndChips.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\bin\Debug\net5.0\ref\P02_BeerAndChips.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\bin\Debug\net5.0\P02_BeerAndChips.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\obj\Debug\net5.0\P02_BeerAndChips.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\obj\Debug\net5.0\P02_BeerAndChips.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\obj\Debug\net5.0\P02_BeerAndChips.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\obj\Debug\net5.0\P02_BeerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\obj\Debug\net5.0\P02_BeerAndChips.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\obj\Debug\net5.0\ref\P02_BeerAndChips.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\obj\Debug\net5.0\P02_BeerAndChips.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P02_BeerAndChips\obj\Debug\net5.0\P02_BeerAndChips.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\bin\Debug\net5.0\P08_LunchBreakProject_Exam.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\bin\Debug\net5.0\P08_LunchBreakProject_Exam.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\bin\Debug\net5.0\P08_LunchBreakProject_Exam.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\bin\Debug\net5.0\P08_LunchBreakProject_Exam.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\bin\Debug\net5.0\P08_LunchBreakProject_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\bin\Debug\net5.0\ref\P08_LunchBreakProject_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\bin\Debug\net5.0\P08_LunchBreakProject_Exam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\obj\Debug\net5.0\P08_LunchBreakProject_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\obj\Debug\net5.0\P08_LunchBreakProject_Exam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\obj\Debug\net5.0\P08_LunchBreakProject_Exam.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\obj\Debug\net5.0\P08_LunchBreakProject_Exam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\obj\Debug\net5.0\P08_LunchBreakProject_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\obj\Debug\net5.0\ref\P08_LunchBreakProject_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\obj\Debug\net5.0\P08_LunchBreakProject_Exam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\obj\Debug\net5.0\P08_LunchBreakProject_Exam.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P08_LunchBreakProject_Exam\obj\Debug\net5.0\P08_LunchBreakProject_Exam.csproj.AssemblyReference.cache

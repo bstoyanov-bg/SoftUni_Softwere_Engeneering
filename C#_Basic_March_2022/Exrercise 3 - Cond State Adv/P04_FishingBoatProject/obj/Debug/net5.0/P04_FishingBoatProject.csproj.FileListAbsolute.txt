@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\bin\Debug\net5.0\P04_FishingBoatProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\bin\Debug\net5.0\P04_FishingBoatProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\bin\Debug\net5.0\P04_FishingBoatProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\bin\Debug\net5.0\P04_FishingBoatProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\bin\Debug\net5.0\P04_FishingBoatProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\bin\Debug\net5.0\ref\P04_FishingBoatProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\bin\Debug\net5.0\P04_FishingBoatProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\obj\Debug\net5.0\P04_FishingBoatProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\obj\Debug\net5.0\P04_FishingBoatProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\obj\Debug\net5.0\P04_FishingBoatProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\obj\Debug\net5.0\P04_FishingBoatProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\obj\Debug\net5.0\P04_FishingBoatProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\obj\Debug\net5.0\ref\P04_FishingBoatProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\obj\Debug\net5.0\P04_FishingBoatProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\obj\Debug\net5.0\P04_FishingBoatProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P04_FishingBoatProject\obj\Debug\net5.0\P04_FishingBoatProject.csproj.AssemblyReference.cache

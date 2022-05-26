@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\bin\Debug\net5.0\P03_NewHouseProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\bin\Debug\net5.0\P03_NewHouseProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\bin\Debug\net5.0\P03_NewHouseProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\bin\Debug\net5.0\P03_NewHouseProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\bin\Debug\net5.0\P03_NewHouseProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\bin\Debug\net5.0\ref\P03_NewHouseProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\bin\Debug\net5.0\P03_NewHouseProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\obj\Debug\net5.0\P03_NewHouseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\obj\Debug\net5.0\P03_NewHouseProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\obj\Debug\net5.0\P03_NewHouseProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\obj\Debug\net5.0\P03_NewHouseProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\obj\Debug\net5.0\P03_NewHouseProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\obj\Debug\net5.0\ref\P03_NewHouseProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\obj\Debug\net5.0\P03_NewHouseProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\obj\Debug\net5.0\P03_NewHouseProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P03_NewHouseProject\obj\Debug\net5.0\P03_NewHouseProject.csproj.AssemblyReference.cache

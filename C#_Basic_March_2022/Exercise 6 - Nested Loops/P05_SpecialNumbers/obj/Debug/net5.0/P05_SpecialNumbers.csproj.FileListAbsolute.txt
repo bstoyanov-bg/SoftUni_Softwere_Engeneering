@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\bin\Debug\net5.0\ref\P05_SpecialNumbers.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\obj\Debug\net5.0\ref\P05_SpecialNumbers.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.genruntimeconfig.cache

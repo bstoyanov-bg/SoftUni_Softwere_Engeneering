@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\bin\Debug\net5.0\P05_CoinsProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\bin\Debug\net5.0\P05_CoinsProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\bin\Debug\net5.0\P05_CoinsProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\bin\Debug\net5.0\P05_CoinsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\bin\Debug\net5.0\P05_CoinsProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\bin\Debug\net5.0\ref\P05_CoinsProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\bin\Debug\net5.0\P05_CoinsProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\obj\Debug\net5.0\P05_CoinsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\obj\Debug\net5.0\P05_CoinsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\obj\Debug\net5.0\P05_CoinsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\obj\Debug\net5.0\P05_CoinsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\obj\Debug\net5.0\P05_CoinsProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\obj\Debug\net5.0\ref\P05_CoinsProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\obj\Debug\net5.0\P05_CoinsProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\obj\Debug\net5.0\P05_CoinsProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P05_CoinsProject\obj\Debug\net5.0\P05_CoinsProject.csproj.AssemblyReference.cache

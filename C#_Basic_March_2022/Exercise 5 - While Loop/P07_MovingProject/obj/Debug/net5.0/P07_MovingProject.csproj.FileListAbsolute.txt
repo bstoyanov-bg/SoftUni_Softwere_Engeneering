@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\bin\Debug\net5.0\P07_MovingProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\bin\Debug\net5.0\P07_MovingProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\bin\Debug\net5.0\P07_MovingProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\bin\Debug\net5.0\P07_MovingProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\bin\Debug\net5.0\P07_MovingProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\bin\Debug\net5.0\ref\P07_MovingProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\bin\Debug\net5.0\P07_MovingProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\obj\Debug\net5.0\P07_MovingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\obj\Debug\net5.0\P07_MovingProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\obj\Debug\net5.0\P07_MovingProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\obj\Debug\net5.0\P07_MovingProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\obj\Debug\net5.0\P07_MovingProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\obj\Debug\net5.0\ref\P07_MovingProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\obj\Debug\net5.0\P07_MovingProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\obj\Debug\net5.0\P07_MovingProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P07_MovingProject\obj\Debug\net5.0\P07_MovingProject.csproj.AssemblyReference.cache

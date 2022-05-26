@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\bin\Debug\net5.0\P01_OldBooksProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\bin\Debug\net5.0\P01_OldBooksProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\bin\Debug\net5.0\P01_OldBooksProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\bin\Debug\net5.0\P01_OldBooksProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\bin\Debug\net5.0\P01_OldBooksProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\bin\Debug\net5.0\ref\P01_OldBooksProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\bin\Debug\net5.0\P01_OldBooksProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\obj\Debug\net5.0\P01_OldBooksProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\obj\Debug\net5.0\P01_OldBooksProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\obj\Debug\net5.0\P01_OldBooksProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\obj\Debug\net5.0\P01_OldBooksProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\obj\Debug\net5.0\P01_OldBooksProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\obj\Debug\net5.0\ref\P01_OldBooksProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\obj\Debug\net5.0\P01_OldBooksProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\obj\Debug\net5.0\P01_OldBooksProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P01_OldBooksProject\obj\Debug\net5.0\P01_OldBooksProject.csproj.AssemblyReference.cache

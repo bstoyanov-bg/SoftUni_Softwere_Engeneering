@@ -1,0 +1,31 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\ref\P01_SumSecondsProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\ref\P01_SumSecondsProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.exe
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.deps.json
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.dll
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\ref\P01_SumSecondsProject.dll
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\bin\Debug\net5.0\P01_SumSecondsProject.pdb
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.dll
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\ref\P01_SumSecondsProject.dll
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.pdb
+C:\Users\User\source\repos\C#_Basic_March_2022\ProgrammingBasics_March2022\Exrercise 2 - Conditional Statements\P01_Sum SecondsProject\P01_SumSecondsProject\obj\Debug\net5.0\P01_SumSecondsProject.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P03_DepositCalculatorProject/1.0.0": {
+        "runtime": {
+          "P03_DepositCalculatorProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P03_DepositCalculatorProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

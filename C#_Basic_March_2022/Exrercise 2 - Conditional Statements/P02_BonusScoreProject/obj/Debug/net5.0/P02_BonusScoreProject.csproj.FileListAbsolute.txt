@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\bin\Debug\net5.0\P02_BonusScoreProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\bin\Debug\net5.0\P02_BonusScoreProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\bin\Debug\net5.0\P02_BonusScoreProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\bin\Debug\net5.0\P02_BonusScoreProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\bin\Debug\net5.0\P02_BonusScoreProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\bin\Debug\net5.0\ref\P02_BonusScoreProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\bin\Debug\net5.0\P02_BonusScoreProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\obj\Debug\net5.0\P02_BonusScoreProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\obj\Debug\net5.0\P02_BonusScoreProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\obj\Debug\net5.0\P02_BonusScoreProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\obj\Debug\net5.0\P02_BonusScoreProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\obj\Debug\net5.0\P02_BonusScoreProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\obj\Debug\net5.0\P02_BonusScoreProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\obj\Debug\net5.0\ref\P02_BonusScoreProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\obj\Debug\net5.0\P02_BonusScoreProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P02_BonusScoreProject\obj\Debug\net5.0\P02_BonusScoreProject.genruntimeconfig.cache

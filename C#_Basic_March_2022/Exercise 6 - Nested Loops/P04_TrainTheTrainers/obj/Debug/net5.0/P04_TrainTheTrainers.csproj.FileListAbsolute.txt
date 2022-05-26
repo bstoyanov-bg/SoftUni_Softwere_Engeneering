@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\bin\Debug\net5.0\P04_TrainTheTrainers.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\bin\Debug\net5.0\P04_TrainTheTrainers.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\bin\Debug\net5.0\P04_TrainTheTrainers.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\bin\Debug\net5.0\P04_TrainTheTrainers.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\bin\Debug\net5.0\P04_TrainTheTrainers.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\bin\Debug\net5.0\ref\P04_TrainTheTrainers.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\bin\Debug\net5.0\P04_TrainTheTrainers.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\obj\Debug\net5.0\P04_TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\obj\Debug\net5.0\P04_TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\obj\Debug\net5.0\P04_TrainTheTrainers.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\obj\Debug\net5.0\P04_TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\obj\Debug\net5.0\P04_TrainTheTrainers.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\obj\Debug\net5.0\ref\P04_TrainTheTrainers.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\obj\Debug\net5.0\P04_TrainTheTrainers.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\obj\Debug\net5.0\P04_TrainTheTrainers.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P04_TrainTheTrainers\obj\Debug\net5.0\P04_TrainTheTrainers.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\bin\Debug\net5.0\P06_GoldMine.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\bin\Debug\net5.0\P06_GoldMine.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\bin\Debug\net5.0\P06_GoldMine.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\bin\Debug\net5.0\P06_GoldMine.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\bin\Debug\net5.0\P06_GoldMine.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\bin\Debug\net5.0\ref\P06_GoldMine.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\bin\Debug\net5.0\P06_GoldMine.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\obj\Debug\net5.0\P06_GoldMine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\obj\Debug\net5.0\P06_GoldMine.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\obj\Debug\net5.0\P06_GoldMine.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\obj\Debug\net5.0\P06_GoldMine.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\obj\Debug\net5.0\P06_GoldMine.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\obj\Debug\net5.0\ref\P06_GoldMine.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\obj\Debug\net5.0\P06_GoldMine.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exam\P06_GoldMine\obj\Debug\net5.0\P06_GoldMine.genruntimeconfig.cache

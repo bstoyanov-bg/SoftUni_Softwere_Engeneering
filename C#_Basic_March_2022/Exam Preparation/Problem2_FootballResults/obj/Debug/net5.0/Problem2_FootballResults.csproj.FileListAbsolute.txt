@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\bin\Debug\net5.0\Problem2_FootballResults.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\bin\Debug\net5.0\Problem2_FootballResults.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\bin\Debug\net5.0\Problem2_FootballResults.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\bin\Debug\net5.0\Problem2_FootballResults.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\bin\Debug\net5.0\Problem2_FootballResults.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\bin\Debug\net5.0\ref\Problem2_FootballResults.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\bin\Debug\net5.0\Problem2_FootballResults.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\obj\Debug\net5.0\Problem2_FootballResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\obj\Debug\net5.0\Problem2_FootballResults.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\obj\Debug\net5.0\Problem2_FootballResults.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\obj\Debug\net5.0\Problem2_FootballResults.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\obj\Debug\net5.0\Problem2_FootballResults.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\obj\Debug\net5.0\ref\Problem2_FootballResults.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\obj\Debug\net5.0\Problem2_FootballResults.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem2_FootballResults\obj\Debug\net5.0\Problem2_FootballResults.genruntimeconfig.cache

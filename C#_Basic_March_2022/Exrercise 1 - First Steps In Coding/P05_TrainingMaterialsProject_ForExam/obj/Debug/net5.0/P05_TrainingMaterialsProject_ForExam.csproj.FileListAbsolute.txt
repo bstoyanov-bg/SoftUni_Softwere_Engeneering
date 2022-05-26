@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\bin\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\bin\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\bin\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\bin\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\bin\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\bin\Debug\net5.0\ref\P05_TrainingMaterialsProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\bin\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\obj\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\obj\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\obj\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\obj\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\obj\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\obj\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\obj\Debug\net5.0\ref\P05_TrainingMaterialsProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\obj\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P05_TrainingMaterialsProject_ForExam\obj\Debug\net5.0\P05_TrainingMaterialsProject_ForExam.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\bin\Debug\net5.0\P05_LoginProject.exe
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\bin\Debug\net5.0\P05_LoginProject.deps.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\bin\Debug\net5.0\P05_LoginProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\bin\Debug\net5.0\P05_LoginProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\bin\Debug\net5.0\P05_LoginProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\bin\Debug\net5.0\ref\P05_LoginProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\bin\Debug\net5.0\P05_LoginProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\obj\Debug\net5.0\P05_LoginProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\obj\Debug\net5.0\P05_LoginProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\obj\Debug\net5.0\P05_LoginProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\obj\Debug\net5.0\P05_LoginProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\obj\Debug\net5.0\P05_LoginProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\obj\Debug\net5.0\ref\P05_LoginProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\obj\Debug\net5.0\P05_LoginProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\obj\Debug\net5.0\P05_LoginProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P05_LoginProject\obj\Debug\net5.0\P05_LoginProject.csproj.AssemblyReference.cache

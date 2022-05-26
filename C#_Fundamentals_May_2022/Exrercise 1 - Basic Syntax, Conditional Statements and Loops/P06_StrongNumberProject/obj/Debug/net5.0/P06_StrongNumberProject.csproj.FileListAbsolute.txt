@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\bin\Debug\net5.0\P06_StrongNumberProject.exe
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\bin\Debug\net5.0\P06_StrongNumberProject.deps.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\bin\Debug\net5.0\P06_StrongNumberProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\bin\Debug\net5.0\P06_StrongNumberProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\bin\Debug\net5.0\P06_StrongNumberProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\bin\Debug\net5.0\ref\P06_StrongNumberProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\bin\Debug\net5.0\P06_StrongNumberProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\obj\Debug\net5.0\P06_StrongNumberProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\obj\Debug\net5.0\P06_StrongNumberProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\obj\Debug\net5.0\P06_StrongNumberProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\obj\Debug\net5.0\P06_StrongNumberProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\obj\Debug\net5.0\P06_StrongNumberProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\obj\Debug\net5.0\ref\P06_StrongNumberProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\obj\Debug\net5.0\P06_StrongNumberProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\obj\Debug\net5.0\P06_StrongNumberProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_StrongNumberProject\obj\Debug\net5.0\P06_StrongNumberProject.csproj.AssemblyReference.cache

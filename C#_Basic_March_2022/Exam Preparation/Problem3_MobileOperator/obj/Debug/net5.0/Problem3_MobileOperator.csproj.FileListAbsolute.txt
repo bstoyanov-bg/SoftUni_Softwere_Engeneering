@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\bin\Debug\net5.0\Problem3_MobileOperator.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\bin\Debug\net5.0\Problem3_MobileOperator.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\bin\Debug\net5.0\Problem3_MobileOperator.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\bin\Debug\net5.0\Problem3_MobileOperator.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\bin\Debug\net5.0\Problem3_MobileOperator.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\bin\Debug\net5.0\ref\Problem3_MobileOperator.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\bin\Debug\net5.0\Problem3_MobileOperator.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\obj\Debug\net5.0\Problem3_MobileOperator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\obj\Debug\net5.0\Problem3_MobileOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\obj\Debug\net5.0\Problem3_MobileOperator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\obj\Debug\net5.0\Problem3_MobileOperator.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\obj\Debug\net5.0\Problem3_MobileOperator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\obj\Debug\net5.0\Problem3_MobileOperator.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\obj\Debug\net5.0\ref\Problem3_MobileOperator.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\obj\Debug\net5.0\Problem3_MobileOperator.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem3_MobileOperator\obj\Debug\net5.0\Problem3_MobileOperator.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\bin\Debug\net5.0\P10_RageExpensesProject.exe
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\bin\Debug\net5.0\P10_RageExpensesProject.deps.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\bin\Debug\net5.0\P10_RageExpensesProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\bin\Debug\net5.0\P10_RageExpensesProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\bin\Debug\net5.0\P10_RageExpensesProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\bin\Debug\net5.0\ref\P10_RageExpensesProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\bin\Debug\net5.0\P10_RageExpensesProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\obj\Debug\net5.0\P10_RageExpensesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\obj\Debug\net5.0\P10_RageExpensesProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\obj\Debug\net5.0\P10_RageExpensesProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\obj\Debug\net5.0\P10_RageExpensesProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\obj\Debug\net5.0\P10_RageExpensesProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\obj\Debug\net5.0\ref\P10_RageExpensesProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\obj\Debug\net5.0\P10_RageExpensesProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\obj\Debug\net5.0\P10_RageExpensesProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P10_RageExpensesProject\obj\Debug\net5.0\P10_RageExpensesProject.csproj.AssemblyReference.cache

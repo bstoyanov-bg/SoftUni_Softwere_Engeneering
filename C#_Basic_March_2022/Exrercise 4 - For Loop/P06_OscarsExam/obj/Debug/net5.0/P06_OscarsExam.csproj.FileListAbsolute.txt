@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\bin\Debug\net5.0\P06_OscarsExam.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\bin\Debug\net5.0\P06_OscarsExam.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\bin\Debug\net5.0\P06_OscarsExam.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\bin\Debug\net5.0\P06_OscarsExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\bin\Debug\net5.0\P06_OscarsExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\bin\Debug\net5.0\ref\P06_OscarsExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\bin\Debug\net5.0\P06_OscarsExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\obj\Debug\net5.0\P06_OscarsExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\obj\Debug\net5.0\P06_OscarsExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\obj\Debug\net5.0\P06_OscarsExam.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\obj\Debug\net5.0\P06_OscarsExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\obj\Debug\net5.0\P06_OscarsExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\obj\Debug\net5.0\ref\P06_OscarsExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\obj\Debug\net5.0\P06_OscarsExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\obj\Debug\net5.0\P06_OscarsExam.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P06_OscarsExam\obj\Debug\net5.0\P06_OscarsExam.csproj.AssemblyReference.cache

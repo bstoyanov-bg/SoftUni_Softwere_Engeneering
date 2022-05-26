@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\bin\Debug\net5.0\P07_ShoppingProject_Exam.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\bin\Debug\net5.0\P07_ShoppingProject_Exam.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\bin\Debug\net5.0\P07_ShoppingProject_Exam.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\bin\Debug\net5.0\P07_ShoppingProject_Exam.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\bin\Debug\net5.0\P07_ShoppingProject_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\bin\Debug\net5.0\ref\P07_ShoppingProject_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\bin\Debug\net5.0\P07_ShoppingProject_Exam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\obj\Debug\net5.0\P07_ShoppingProject_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\obj\Debug\net5.0\P07_ShoppingProject_Exam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\obj\Debug\net5.0\P07_ShoppingProject_Exam.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\obj\Debug\net5.0\P07_ShoppingProject_Exam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\obj\Debug\net5.0\P07_ShoppingProject_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\obj\Debug\net5.0\ref\P07_ShoppingProject_Exam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\obj\Debug\net5.0\P07_ShoppingProject_Exam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\obj\Debug\net5.0\P07_ShoppingProject_Exam.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise02\P07_ShoppingProject_Exam\obj\Debug\net5.0\P07_ShoppingProject_Exam.csproj.AssemblyReference.cache

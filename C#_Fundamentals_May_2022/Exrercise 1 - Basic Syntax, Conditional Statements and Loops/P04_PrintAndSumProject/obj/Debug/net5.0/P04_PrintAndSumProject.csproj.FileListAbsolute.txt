@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\bin\Debug\net5.0\P04_PrintAndSumProject.exe
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\bin\Debug\net5.0\P04_PrintAndSumProject.deps.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\bin\Debug\net5.0\P04_PrintAndSumProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\bin\Debug\net5.0\P04_PrintAndSumProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\bin\Debug\net5.0\P04_PrintAndSumProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\bin\Debug\net5.0\ref\P04_PrintAndSumProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\bin\Debug\net5.0\P04_PrintAndSumProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\obj\Debug\net5.0\P04_PrintAndSumProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\obj\Debug\net5.0\P04_PrintAndSumProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\obj\Debug\net5.0\P04_PrintAndSumProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\obj\Debug\net5.0\P04_PrintAndSumProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\obj\Debug\net5.0\P04_PrintAndSumProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\obj\Debug\net5.0\ref\P04_PrintAndSumProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\obj\Debug\net5.0\P04_PrintAndSumProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P04_PrintAndSumProject\obj\Debug\net5.0\P04_PrintAndSumProject.genruntimeconfig.cache

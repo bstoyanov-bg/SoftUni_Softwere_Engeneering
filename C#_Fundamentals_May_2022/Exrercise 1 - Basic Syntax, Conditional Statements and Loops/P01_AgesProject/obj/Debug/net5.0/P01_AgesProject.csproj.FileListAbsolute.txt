@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\bin\Debug\net5.0\P01_AgesProject.exe
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\bin\Debug\net5.0\P01_AgesProject.deps.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\bin\Debug\net5.0\P01_AgesProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\bin\Debug\net5.0\P01_AgesProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\bin\Debug\net5.0\P01_AgesProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\bin\Debug\net5.0\ref\P01_AgesProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\bin\Debug\net5.0\P01_AgesProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\obj\Debug\net5.0\P01_AgesProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\obj\Debug\net5.0\P01_AgesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\obj\Debug\net5.0\P01_AgesProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\obj\Debug\net5.0\P01_AgesProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\obj\Debug\net5.0\P01_AgesProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\obj\Debug\net5.0\P01_AgesProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\obj\Debug\net5.0\ref\P01_AgesProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\obj\Debug\net5.0\P01_AgesProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Fundamentals_May_2022\obj\Debug\net5.0\P01_AgesProject.genruntimeconfig.cache

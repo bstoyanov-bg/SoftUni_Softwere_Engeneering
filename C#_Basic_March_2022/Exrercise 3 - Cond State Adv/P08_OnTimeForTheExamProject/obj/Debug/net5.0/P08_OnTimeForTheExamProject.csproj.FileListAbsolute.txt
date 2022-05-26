@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\bin\Debug\net5.0\P08_OnTimeForTheExamProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\bin\Debug\net5.0\P08_OnTimeForTheExamProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\bin\Debug\net5.0\P08_OnTimeForTheExamProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\bin\Debug\net5.0\P08_OnTimeForTheExamProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\bin\Debug\net5.0\P08_OnTimeForTheExamProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\bin\Debug\net5.0\ref\P08_OnTimeForTheExamProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\bin\Debug\net5.0\P08_OnTimeForTheExamProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\obj\Debug\net5.0\P08_OnTimeForTheExamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\obj\Debug\net5.0\P08_OnTimeForTheExamProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\obj\Debug\net5.0\P08_OnTimeForTheExamProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\obj\Debug\net5.0\P08_OnTimeForTheExamProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\obj\Debug\net5.0\P08_OnTimeForTheExamProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\obj\Debug\net5.0\ref\P08_OnTimeForTheExamProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\obj\Debug\net5.0\P08_OnTimeForTheExamProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\obj\Debug\net5.0\P08_OnTimeForTheExamProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P08_OnTimeForTheExamProject\obj\Debug\net5.0\P08_OnTimeForTheExamProject.csproj.AssemblyReference.cache

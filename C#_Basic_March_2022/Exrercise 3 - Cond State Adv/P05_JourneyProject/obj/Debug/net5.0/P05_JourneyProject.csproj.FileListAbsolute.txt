@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\bin\Debug\net5.0\P05_JourneyProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\bin\Debug\net5.0\P05_JourneyProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\bin\Debug\net5.0\P05_JourneyProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\bin\Debug\net5.0\P05_JourneyProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\bin\Debug\net5.0\P05_JourneyProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\bin\Debug\net5.0\ref\P05_JourneyProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\bin\Debug\net5.0\P05_JourneyProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\obj\Debug\net5.0\P05_JourneyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\obj\Debug\net5.0\P05_JourneyProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\obj\Debug\net5.0\P05_JourneyProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\obj\Debug\net5.0\P05_JourneyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\obj\Debug\net5.0\P05_JourneyProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\obj\Debug\net5.0\ref\P05_JourneyProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\obj\Debug\net5.0\P05_JourneyProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\obj\Debug\net5.0\P05_JourneyProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P05_JourneyProject\obj\Debug\net5.0\P05_JourneyProject.csproj.AssemblyReference.cache

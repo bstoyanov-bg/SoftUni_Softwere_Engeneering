@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\bin\Debug\net5.0\P02_HalfSumElement.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\bin\Debug\net5.0\P02_HalfSumElement.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\bin\Debug\net5.0\P02_HalfSumElement.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\bin\Debug\net5.0\P02_HalfSumElement.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\bin\Debug\net5.0\P02_HalfSumElement.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\bin\Debug\net5.0\ref\P02_HalfSumElement.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\bin\Debug\net5.0\P02_HalfSumElement.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\obj\Debug\net5.0\P02_HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\obj\Debug\net5.0\P02_HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\obj\Debug\net5.0\P02_HalfSumElement.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\obj\Debug\net5.0\P02_HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\obj\Debug\net5.0\P02_HalfSumElement.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\obj\Debug\net5.0\ref\P02_HalfSumElement.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\obj\Debug\net5.0\P02_HalfSumElement.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\obj\Debug\net5.0\P02_HalfSumElement.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise04\P02_HalfSumElement\obj\Debug\net5.0\P02_HalfSumElement.csproj.AssemblyReference.cache

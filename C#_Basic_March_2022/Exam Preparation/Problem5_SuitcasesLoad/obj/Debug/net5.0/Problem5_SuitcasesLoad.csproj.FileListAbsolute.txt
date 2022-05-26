@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\bin\Debug\net5.0\Problem5_SuitcasesLoad.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\bin\Debug\net5.0\Problem5_SuitcasesLoad.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\bin\Debug\net5.0\Problem5_SuitcasesLoad.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\bin\Debug\net5.0\Problem5_SuitcasesLoad.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\bin\Debug\net5.0\Problem5_SuitcasesLoad.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\bin\Debug\net5.0\ref\Problem5_SuitcasesLoad.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\bin\Debug\net5.0\Problem5_SuitcasesLoad.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\obj\Debug\net5.0\Problem5_SuitcasesLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\obj\Debug\net5.0\Problem5_SuitcasesLoad.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\obj\Debug\net5.0\Problem5_SuitcasesLoad.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\obj\Debug\net5.0\Problem5_SuitcasesLoad.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\obj\Debug\net5.0\Problem5_SuitcasesLoad.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\obj\Debug\net5.0\ref\Problem5_SuitcasesLoad.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\obj\Debug\net5.0\Problem5_SuitcasesLoad.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\ExamPreparation\Problem5_SuitcasesLoad\obj\Debug\net5.0\Problem5_SuitcasesLoad.genruntimeconfig.cache

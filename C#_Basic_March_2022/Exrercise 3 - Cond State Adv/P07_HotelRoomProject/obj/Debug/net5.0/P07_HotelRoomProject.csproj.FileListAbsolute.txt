@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\bin\Debug\net5.0\P07_HotelRoomProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\bin\Debug\net5.0\P07_HotelRoomProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\bin\Debug\net5.0\P07_HotelRoomProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\bin\Debug\net5.0\P07_HotelRoomProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\bin\Debug\net5.0\P07_HotelRoomProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\bin\Debug\net5.0\ref\P07_HotelRoomProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\bin\Debug\net5.0\P07_HotelRoomProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\obj\Debug\net5.0\P07_HotelRoomProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\obj\Debug\net5.0\P07_HotelRoomProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\obj\Debug\net5.0\P07_HotelRoomProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\obj\Debug\net5.0\P07_HotelRoomProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\obj\Debug\net5.0\P07_HotelRoomProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\obj\Debug\net5.0\ref\P07_HotelRoomProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\obj\Debug\net5.0\P07_HotelRoomProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\obj\Debug\net5.0\P07_HotelRoomProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P07_HotelRoomProject\obj\Debug\net5.0\P07_HotelRoomProject.csproj.AssemblyReference.cache

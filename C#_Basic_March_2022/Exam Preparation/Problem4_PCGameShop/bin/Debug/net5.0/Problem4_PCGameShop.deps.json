@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Problem4_PCGameShop/1.0.0": {
+        "runtime": {
+          "Problem4_PCGameShop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem4_PCGameShop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\bin\Debug\net5.0\P09_SkiTripProect.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\bin\Debug\net5.0\P09_SkiTripProect.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\bin\Debug\net5.0\P09_SkiTripProect.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\bin\Debug\net5.0\P09_SkiTripProect.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\bin\Debug\net5.0\P09_SkiTripProect.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\bin\Debug\net5.0\ref\P09_SkiTripProect.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\bin\Debug\net5.0\P09_SkiTripProect.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\obj\Debug\net5.0\P09_SkiTripProect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\obj\Debug\net5.0\P09_SkiTripProect.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\obj\Debug\net5.0\P09_SkiTripProect.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\obj\Debug\net5.0\P09_SkiTripProect.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\obj\Debug\net5.0\P09_SkiTripProect.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\obj\Debug\net5.0\ref\P09_SkiTripProect.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\obj\Debug\net5.0\P09_SkiTripProect.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\obj\Debug\net5.0\P09_SkiTripProect.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise03\P09_SkiTripProect\obj\Debug\net5.0\P09_SkiTripProect.csproj.AssemblyReference.cache

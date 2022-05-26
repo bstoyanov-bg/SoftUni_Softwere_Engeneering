@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\bin\Debug\net5.0\P04_RequiredLiteratureProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\bin\Debug\net5.0\P04_RequiredLiteratureProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\bin\Debug\net5.0\P04_RequiredLiteratureProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\bin\Debug\net5.0\P04_RequiredLiteratureProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\bin\Debug\net5.0\P04_RequiredLiteratureProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\bin\Debug\net5.0\ref\P04_RequiredLiteratureProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\bin\Debug\net5.0\P04_RequiredLiteratureProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\obj\Debug\net5.0\P04_RequiredLiteratureProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\obj\Debug\net5.0\P04_RequiredLiteratureProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\obj\Debug\net5.0\P04_RequiredLiteratureProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\obj\Debug\net5.0\P04_RequiredLiteratureProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\obj\Debug\net5.0\P04_RequiredLiteratureProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\obj\Debug\net5.0\ref\P04_RequiredLiteratureProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\obj\Debug\net5.0\P04_RequiredLiteratureProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P04_RequiredLiteratureProject\obj\Debug\net5.0\P04_RequiredLiteratureProject.genruntimeconfig.cache

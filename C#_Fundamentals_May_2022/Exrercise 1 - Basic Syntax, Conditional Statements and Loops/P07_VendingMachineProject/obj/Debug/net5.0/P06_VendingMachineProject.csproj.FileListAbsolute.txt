@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\bin\Debug\net5.0\P06_VendingMachineProject.exe
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\bin\Debug\net5.0\P06_VendingMachineProject.deps.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\bin\Debug\net5.0\P06_VendingMachineProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\bin\Debug\net5.0\P06_VendingMachineProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\bin\Debug\net5.0\P06_VendingMachineProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\bin\Debug\net5.0\ref\P06_VendingMachineProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\bin\Debug\net5.0\P06_VendingMachineProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\obj\Debug\net5.0\P06_VendingMachineProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\obj\Debug\net5.0\P06_VendingMachineProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\obj\Debug\net5.0\P06_VendingMachineProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\obj\Debug\net5.0\P06_VendingMachineProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\obj\Debug\net5.0\P06_VendingMachineProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\obj\Debug\net5.0\ref\P06_VendingMachineProject.dll
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\obj\Debug\net5.0\P06_VendingMachineProject.pdb
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\obj\Debug\net5.0\P06_VendingMachineProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundaentals_May_2022\Fundamentals_May_2022\Exe_01\P06_VendingMachineProject\obj\Debug\net5.0\P06_VendingMachineProject.csproj.AssemblyReference.cache

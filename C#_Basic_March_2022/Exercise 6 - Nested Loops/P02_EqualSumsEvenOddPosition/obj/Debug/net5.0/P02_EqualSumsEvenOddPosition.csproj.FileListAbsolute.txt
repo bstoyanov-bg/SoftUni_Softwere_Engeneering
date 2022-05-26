@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\bin\Debug\net5.0\P02_EqualSumsEvenOddPosition.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\bin\Debug\net5.0\P02_EqualSumsEvenOddPosition.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\bin\Debug\net5.0\P02_EqualSumsEvenOddPosition.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\bin\Debug\net5.0\P02_EqualSumsEvenOddPosition.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\bin\Debug\net5.0\P02_EqualSumsEvenOddPosition.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\bin\Debug\net5.0\ref\P02_EqualSumsEvenOddPosition.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\bin\Debug\net5.0\P02_EqualSumsEvenOddPosition.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\obj\Debug\net5.0\P02_EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\obj\Debug\net5.0\P02_EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\obj\Debug\net5.0\P02_EqualSumsEvenOddPosition.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\obj\Debug\net5.0\P02_EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\obj\Debug\net5.0\P02_EqualSumsEvenOddPosition.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\obj\Debug\net5.0\ref\P02_EqualSumsEvenOddPosition.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\obj\Debug\net5.0\P02_EqualSumsEvenOddPosition.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise06\P02_EqualSumsEvenOddPosition\obj\Debug\net5.0\P02_EqualSumsEvenOddPosition.genruntimeconfig.cache

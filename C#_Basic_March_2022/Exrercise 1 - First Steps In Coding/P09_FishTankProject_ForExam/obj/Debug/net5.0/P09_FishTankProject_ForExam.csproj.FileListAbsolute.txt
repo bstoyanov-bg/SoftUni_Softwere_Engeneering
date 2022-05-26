@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\bin\Debug\net5.0\P09_FishTankProject_ForExam.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\bin\Debug\net5.0\P09_FishTankProject_ForExam.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\bin\Debug\net5.0\P09_FishTankProject_ForExam.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\bin\Debug\net5.0\P09_FishTankProject_ForExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\bin\Debug\net5.0\P09_FishTankProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\bin\Debug\net5.0\ref\P09_FishTankProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\bin\Debug\net5.0\P09_FishTankProject_ForExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\obj\Debug\net5.0\P09_FishTankProject_ForExam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\obj\Debug\net5.0\P09_FishTankProject_ForExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\obj\Debug\net5.0\P09_FishTankProject_ForExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\obj\Debug\net5.0\P09_FishTankProject_ForExam.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\obj\Debug\net5.0\P09_FishTankProject_ForExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\obj\Debug\net5.0\P09_FishTankProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\obj\Debug\net5.0\ref\P09_FishTankProject_ForExam.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\obj\Debug\net5.0\P09_FishTankProject_ForExam.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise01\P09_FishTankProject_ForExam\obj\Debug\net5.0\P09_FishTankProject_ForExam.genruntimeconfig.cache

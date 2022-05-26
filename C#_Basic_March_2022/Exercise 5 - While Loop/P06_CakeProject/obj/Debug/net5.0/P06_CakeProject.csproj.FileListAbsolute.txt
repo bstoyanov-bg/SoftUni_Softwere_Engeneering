@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\bin\Debug\net5.0\P06_CakeProject.exe
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\bin\Debug\net5.0\P06_CakeProject.deps.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\bin\Debug\net5.0\P06_CakeProject.runtimeconfig.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\bin\Debug\net5.0\P06_CakeProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\bin\Debug\net5.0\P06_CakeProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\bin\Debug\net5.0\ref\P06_CakeProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\bin\Debug\net5.0\P06_CakeProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\obj\Debug\net5.0\P06_CakeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\obj\Debug\net5.0\P06_CakeProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\obj\Debug\net5.0\P06_CakeProject.AssemblyInfo.cs
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\obj\Debug\net5.0\P06_CakeProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\obj\Debug\net5.0\P06_CakeProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\obj\Debug\net5.0\ref\P06_CakeProject.dll
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\obj\Debug\net5.0\P06_CakeProject.pdb
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\obj\Debug\net5.0\P06_CakeProject.genruntimeconfig.cache
+C:\Users\User\source\repos\New folder\ProgrammingBasics_March2022\Exercise05\P06_CakeProject\obj\Debug\net5.0\P06_CakeProject.csproj.AssemblyReference.cache
