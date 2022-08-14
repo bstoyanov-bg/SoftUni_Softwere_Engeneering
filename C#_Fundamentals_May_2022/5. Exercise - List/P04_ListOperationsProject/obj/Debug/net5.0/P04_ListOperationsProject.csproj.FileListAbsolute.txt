@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\bin\Debug\net5.0\P04_ListOperationsProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\bin\Debug\net5.0\P04_ListOperationsProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\bin\Debug\net5.0\P04_ListOperationsProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\bin\Debug\net5.0\P04_ListOperationsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\bin\Debug\net5.0\P04_ListOperationsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\bin\Debug\net5.0\ref\P04_ListOperationsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\bin\Debug\net5.0\P04_ListOperationsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\obj\Debug\net5.0\P04_ListOperationsProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\obj\Debug\net5.0\P04_ListOperationsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\obj\Debug\net5.0\P04_ListOperationsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\obj\Debug\net5.0\P04_ListOperationsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\obj\Debug\net5.0\P04_ListOperationsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\obj\Debug\net5.0\P04_ListOperationsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\obj\Debug\net5.0\ref\P04_ListOperationsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\obj\Debug\net5.0\P04_ListOperationsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P04_ListOperationsProject\obj\Debug\net5.0\P04_ListOperationsProject.genruntimeconfig.cache

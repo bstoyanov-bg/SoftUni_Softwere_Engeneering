@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\bin\Debug\net5.0\P10_SoftUniCoursePlanningExam.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\bin\Debug\net5.0\P10_SoftUniCoursePlanningExam.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\bin\Debug\net5.0\P10_SoftUniCoursePlanningExam.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\bin\Debug\net5.0\P10_SoftUniCoursePlanningExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\bin\Debug\net5.0\P10_SoftUniCoursePlanningExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\bin\Debug\net5.0\ref\P10_SoftUniCoursePlanningExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\bin\Debug\net5.0\P10_SoftUniCoursePlanningExam.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\obj\Debug\net5.0\P10_SoftUniCoursePlanningExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\obj\Debug\net5.0\P10_SoftUniCoursePlanningExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\obj\Debug\net5.0\P10_SoftUniCoursePlanningExam.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\obj\Debug\net5.0\P10_SoftUniCoursePlanningExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\obj\Debug\net5.0\P10_SoftUniCoursePlanningExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\obj\Debug\net5.0\ref\P10_SoftUniCoursePlanningExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\obj\Debug\net5.0\P10_SoftUniCoursePlanningExam.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\obj\Debug\net5.0\P10_SoftUniCoursePlanningExam.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P10_SoftUniCoursePlanningExam\obj\Debug\net5.0\P10_SoftUniCoursePlanningExam.csproj.AssemblyReference.cache

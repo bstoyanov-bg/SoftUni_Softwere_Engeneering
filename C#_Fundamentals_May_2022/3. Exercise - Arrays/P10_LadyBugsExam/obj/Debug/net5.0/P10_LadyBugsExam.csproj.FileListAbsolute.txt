@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\bin\Debug\net5.0\P10_LadyBugsExam.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\bin\Debug\net5.0\P10_LadyBugsExam.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\bin\Debug\net5.0\P10_LadyBugsExam.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\bin\Debug\net5.0\P10_LadyBugsExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\bin\Debug\net5.0\P10_LadyBugsExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\bin\Debug\net5.0\ref\P10_LadyBugsExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\bin\Debug\net5.0\P10_LadyBugsExam.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\obj\Debug\net5.0\P10_LadyBugsExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\obj\Debug\net5.0\P10_LadyBugsExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\obj\Debug\net5.0\P10_LadyBugsExam.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\obj\Debug\net5.0\P10_LadyBugsExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\obj\Debug\net5.0\P10_LadyBugsExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\obj\Debug\net5.0\ref\P10_LadyBugsExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\obj\Debug\net5.0\P10_LadyBugsExam.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\obj\Debug\net5.0\P10_LadyBugsExam.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P10_LadyBugsExam\obj\Debug\net5.0\P10_LadyBugsExam.csproj.AssemblyReference.cache

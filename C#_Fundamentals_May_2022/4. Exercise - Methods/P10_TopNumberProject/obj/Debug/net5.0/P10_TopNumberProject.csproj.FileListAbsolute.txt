@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\bin\Debug\net5.0\P10_TopNumberProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\bin\Debug\net5.0\P10_TopNumberProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\bin\Debug\net5.0\P10_TopNumberProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\bin\Debug\net5.0\P10_TopNumberProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\bin\Debug\net5.0\P10_TopNumberProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\bin\Debug\net5.0\ref\P10_TopNumberProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\bin\Debug\net5.0\P10_TopNumberProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\obj\Debug\net5.0\P10_TopNumberProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\obj\Debug\net5.0\P10_TopNumberProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\obj\Debug\net5.0\P10_TopNumberProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\obj\Debug\net5.0\P10_TopNumberProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\obj\Debug\net5.0\P10_TopNumberProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\obj\Debug\net5.0\P10_TopNumberProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\obj\Debug\net5.0\ref\P10_TopNumberProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\obj\Debug\net5.0\P10_TopNumberProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P10_TopNumberProject\obj\Debug\net5.0\P10_TopNumberProject.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\bin\Debug\net5.0\P05_BombNumbersProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\bin\Debug\net5.0\P05_BombNumbersProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\bin\Debug\net5.0\P05_BombNumbersProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\bin\Debug\net5.0\P05_BombNumbersProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\bin\Debug\net5.0\P05_BombNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\bin\Debug\net5.0\ref\P05_BombNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\bin\Debug\net5.0\P05_BombNumbersProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\obj\Debug\net5.0\P05_BombNumbersProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\obj\Debug\net5.0\P05_BombNumbersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\obj\Debug\net5.0\P05_BombNumbersProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\obj\Debug\net5.0\P05_BombNumbersProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\obj\Debug\net5.0\P05_BombNumbersProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\obj\Debug\net5.0\P05_BombNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\obj\Debug\net5.0\ref\P05_BombNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\obj\Debug\net5.0\P05_BombNumbersProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P05_BombNumbersProject\obj\Debug\net5.0\P05_BombNumbersProject.genruntimeconfig.cache

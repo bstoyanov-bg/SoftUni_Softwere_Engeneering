@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\bin\Debug\net5.0\P11_ArrayManipulatorExam.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\bin\Debug\net5.0\P11_ArrayManipulatorExam.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\bin\Debug\net5.0\P11_ArrayManipulatorExam.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\bin\Debug\net5.0\P11_ArrayManipulatorExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\bin\Debug\net5.0\P11_ArrayManipulatorExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\bin\Debug\net5.0\ref\P11_ArrayManipulatorExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\bin\Debug\net5.0\P11_ArrayManipulatorExam.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\obj\Debug\net5.0\P11_ArrayManipulatorExam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\obj\Debug\net5.0\P11_ArrayManipulatorExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\obj\Debug\net5.0\P11_ArrayManipulatorExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\obj\Debug\net5.0\P11_ArrayManipulatorExam.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\obj\Debug\net5.0\P11_ArrayManipulatorExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\obj\Debug\net5.0\P11_ArrayManipulatorExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\obj\Debug\net5.0\ref\P11_ArrayManipulatorExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\obj\Debug\net5.0\P11_ArrayManipulatorExam.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P11_ArrayManipulatorExam\obj\Debug\net5.0\P11_ArrayManipulatorExam.genruntimeconfig.cache

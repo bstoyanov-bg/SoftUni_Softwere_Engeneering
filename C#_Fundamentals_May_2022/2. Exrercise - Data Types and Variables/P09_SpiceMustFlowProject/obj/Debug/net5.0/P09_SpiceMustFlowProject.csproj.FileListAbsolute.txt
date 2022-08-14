@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\bin\Debug\net5.0\P09_SpiceMustFlowProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\bin\Debug\net5.0\P09_SpiceMustFlowProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\bin\Debug\net5.0\P09_SpiceMustFlowProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\bin\Debug\net5.0\P09_SpiceMustFlowProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\bin\Debug\net5.0\P09_SpiceMustFlowProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\bin\Debug\net5.0\ref\P09_SpiceMustFlowProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\bin\Debug\net5.0\P09_SpiceMustFlowProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\obj\Debug\net5.0\P09_SpiceMustFlowProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\obj\Debug\net5.0\P09_SpiceMustFlowProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\obj\Debug\net5.0\P09_SpiceMustFlowProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\obj\Debug\net5.0\P09_SpiceMustFlowProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\obj\Debug\net5.0\P09_SpiceMustFlowProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\obj\Debug\net5.0\ref\P09_SpiceMustFlowProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\obj\Debug\net5.0\P09_SpiceMustFlowProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\obj\Debug\net5.0\P09_SpiceMustFlowProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P09_SpiceMustFlowProject\obj\Debug\net5.0\P09_SpiceMustFlowProject.csproj.AssemblyReference.cache

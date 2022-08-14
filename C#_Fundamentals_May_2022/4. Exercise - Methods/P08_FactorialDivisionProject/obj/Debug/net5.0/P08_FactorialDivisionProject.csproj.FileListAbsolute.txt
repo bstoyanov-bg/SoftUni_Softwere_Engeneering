@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\bin\Debug\net5.0\P08_FactorialDivisionProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\bin\Debug\net5.0\P08_FactorialDivisionProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\bin\Debug\net5.0\P08_FactorialDivisionProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\bin\Debug\net5.0\P08_FactorialDivisionProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\bin\Debug\net5.0\P08_FactorialDivisionProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\bin\Debug\net5.0\ref\P08_FactorialDivisionProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\bin\Debug\net5.0\P08_FactorialDivisionProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\obj\Debug\net5.0\P08_FactorialDivisionProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\obj\Debug\net5.0\P08_FactorialDivisionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\obj\Debug\net5.0\P08_FactorialDivisionProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\obj\Debug\net5.0\P08_FactorialDivisionProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\obj\Debug\net5.0\P08_FactorialDivisionProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\obj\Debug\net5.0\P08_FactorialDivisionProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\obj\Debug\net5.0\ref\P08_FactorialDivisionProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\obj\Debug\net5.0\P08_FactorialDivisionProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P08_FactorialDivisionProject\obj\Debug\net5.0\P08_FactorialDivisionProject.genruntimeconfig.cache

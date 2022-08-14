@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\bin\Debug\net5.0\P06_MiddleCharactersProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\bin\Debug\net5.0\P06_MiddleCharactersProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\bin\Debug\net5.0\P06_MiddleCharactersProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\bin\Debug\net5.0\P06_MiddleCharactersProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\bin\Debug\net5.0\P06_MiddleCharactersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\bin\Debug\net5.0\ref\P06_MiddleCharactersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\bin\Debug\net5.0\P06_MiddleCharactersProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\obj\Debug\net5.0\P06_MiddleCharactersProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\obj\Debug\net5.0\P06_MiddleCharactersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\obj\Debug\net5.0\P06_MiddleCharactersProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\obj\Debug\net5.0\P06_MiddleCharactersProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\obj\Debug\net5.0\P06_MiddleCharactersProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\obj\Debug\net5.0\P06_MiddleCharactersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\obj\Debug\net5.0\ref\P06_MiddleCharactersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\obj\Debug\net5.0\P06_MiddleCharactersProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P06_MiddleCharactersProject\obj\Debug\net5.0\P06_MiddleCharactersProject.genruntimeconfig.cache

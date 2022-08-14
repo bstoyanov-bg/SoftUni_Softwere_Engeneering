@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\bin\Debug\net5.0\P09_PokemonDon'tGoExam.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\bin\Debug\net5.0\P09_PokemonDon'tGoExam.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\bin\Debug\net5.0\P09_PokemonDon'tGoExam.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\bin\Debug\net5.0\P09_PokemonDon'tGoExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\bin\Debug\net5.0\P09_PokemonDon'tGoExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\bin\Debug\net5.0\ref\P09_PokemonDon'tGoExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\bin\Debug\net5.0\P09_PokemonDon'tGoExam.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\obj\Debug\net5.0\P09_PokemonDon'tGoExam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\obj\Debug\net5.0\P09_PokemonDon'tGoExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\obj\Debug\net5.0\P09_PokemonDon'tGoExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\obj\Debug\net5.0\P09_PokemonDon'tGoExam.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\obj\Debug\net5.0\P09_PokemonDon'tGoExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\obj\Debug\net5.0\P09_PokemonDon'tGoExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\obj\Debug\net5.0\ref\P09_PokemonDon'tGoExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\obj\Debug\net5.0\P09_PokemonDon'tGoExam.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P09_PokemonDon'tGoExam\obj\Debug\net5.0\P09_PokemonDon'tGoExam.genruntimeconfig.cache

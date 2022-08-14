@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\bin\Debug\net5.0\P01_IntegerOperationsProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\bin\Debug\net5.0\P01_IntegerOperationsProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\bin\Debug\net5.0\P01_IntegerOperationsProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\bin\Debug\net5.0\P01_IntegerOperationsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\bin\Debug\net5.0\P01_IntegerOperationsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\bin\Debug\net5.0\ref\P01_IntegerOperationsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\bin\Debug\net5.0\P01_IntegerOperationsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\obj\Debug\net5.0\P01_IntegerOperationsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\obj\Debug\net5.0\P01_IntegerOperationsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\obj\Debug\net5.0\P01_IntegerOperationsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\obj\Debug\net5.0\P01_IntegerOperationsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\obj\Debug\net5.0\P01_IntegerOperationsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\obj\Debug\net5.0\ref\P01_IntegerOperationsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\obj\Debug\net5.0\P01_IntegerOperationsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P01_IntegerOperationsProject\obj\Debug\net5.0\P01_IntegerOperationsProject.genruntimeconfig.cache

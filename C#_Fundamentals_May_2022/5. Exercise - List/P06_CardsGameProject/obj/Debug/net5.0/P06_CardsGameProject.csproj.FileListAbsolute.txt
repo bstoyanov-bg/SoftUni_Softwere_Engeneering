@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\bin\Debug\net5.0\P06_CardsGameProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\bin\Debug\net5.0\P06_CardsGameProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\bin\Debug\net5.0\P06_CardsGameProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\bin\Debug\net5.0\P06_CardsGameProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\bin\Debug\net5.0\P06_CardsGameProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\bin\Debug\net5.0\ref\P06_CardsGameProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\bin\Debug\net5.0\P06_CardsGameProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\obj\Debug\net5.0\P06_CardsGameProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\obj\Debug\net5.0\P06_CardsGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\obj\Debug\net5.0\P06_CardsGameProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\obj\Debug\net5.0\P06_CardsGameProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\obj\Debug\net5.0\P06_CardsGameProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\obj\Debug\net5.0\P06_CardsGameProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\obj\Debug\net5.0\ref\P06_CardsGameProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\obj\Debug\net5.0\P06_CardsGameProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P06_CardsGameProject\obj\Debug\net5.0\P06_CardsGameProject.genruntimeconfig.cache

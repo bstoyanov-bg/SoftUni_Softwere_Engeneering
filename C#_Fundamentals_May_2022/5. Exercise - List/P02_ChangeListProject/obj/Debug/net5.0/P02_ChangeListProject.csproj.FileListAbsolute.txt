@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\bin\Debug\net5.0\P02_ChangeListProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\bin\Debug\net5.0\P02_ChangeListProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\bin\Debug\net5.0\P02_ChangeListProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\bin\Debug\net5.0\P02_ChangeListProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\bin\Debug\net5.0\P02_ChangeListProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\bin\Debug\net5.0\ref\P02_ChangeListProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\bin\Debug\net5.0\P02_ChangeListProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\obj\Debug\net5.0\P02_ChangeListProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\obj\Debug\net5.0\P02_ChangeListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\obj\Debug\net5.0\P02_ChangeListProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\obj\Debug\net5.0\P02_ChangeListProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\obj\Debug\net5.0\P02_ChangeListProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\obj\Debug\net5.0\P02_ChangeListProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\obj\Debug\net5.0\ref\P02_ChangeListProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\obj\Debug\net5.0\P02_ChangeListProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P02_ChangeListProject\obj\Debug\net5.0\P02_ChangeListProject.genruntimeconfig.cache

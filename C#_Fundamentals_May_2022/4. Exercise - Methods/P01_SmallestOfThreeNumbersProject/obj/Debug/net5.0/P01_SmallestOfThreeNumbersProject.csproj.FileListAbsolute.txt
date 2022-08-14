@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\bin\Debug\net5.0\P01_SmallestOfThreeNumbersProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\bin\Debug\net5.0\P01_SmallestOfThreeNumbersProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\bin\Debug\net5.0\P01_SmallestOfThreeNumbersProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\bin\Debug\net5.0\P01_SmallestOfThreeNumbersProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\bin\Debug\net5.0\P01_SmallestOfThreeNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\bin\Debug\net5.0\ref\P01_SmallestOfThreeNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\bin\Debug\net5.0\P01_SmallestOfThreeNumbersProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\obj\Debug\net5.0\P01_SmallestOfThreeNumbersProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\obj\Debug\net5.0\P01_SmallestOfThreeNumbersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\obj\Debug\net5.0\P01_SmallestOfThreeNumbersProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\obj\Debug\net5.0\P01_SmallestOfThreeNumbersProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\obj\Debug\net5.0\P01_SmallestOfThreeNumbersProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\obj\Debug\net5.0\P01_SmallestOfThreeNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\obj\Debug\net5.0\ref\P01_SmallestOfThreeNumbersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\obj\Debug\net5.0\P01_SmallestOfThreeNumbersProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P01_SmallestOfThreeNumbersProject\obj\Debug\net5.0\P01_SmallestOfThreeNumbersProject.genruntimeconfig.cache

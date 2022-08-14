@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P08_MagicSum/1.0.0": {
+        "runtime": {
+          "P08_MagicSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P08_MagicSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

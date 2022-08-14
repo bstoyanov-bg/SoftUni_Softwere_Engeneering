@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\bin\Debug\net5.0\P04_SumOfCharsProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\bin\Debug\net5.0\P04_SumOfCharsProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\bin\Debug\net5.0\P04_SumOfCharsProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\bin\Debug\net5.0\P04_SumOfCharsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\bin\Debug\net5.0\P04_SumOfCharsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\bin\Debug\net5.0\ref\P04_SumOfCharsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\bin\Debug\net5.0\P04_SumOfCharsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\obj\Debug\net5.0\P04_SumOfCharsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\obj\Debug\net5.0\P04_SumOfCharsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\obj\Debug\net5.0\P04_SumOfCharsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\obj\Debug\net5.0\P04_SumOfCharsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\obj\Debug\net5.0\P04_SumOfCharsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\obj\Debug\net5.0\ref\P04_SumOfCharsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\obj\Debug\net5.0\P04_SumOfCharsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P04_SumOfCharsProject\obj\Debug\net5.0\P04_SumOfCharsProject.genruntimeconfig.cache

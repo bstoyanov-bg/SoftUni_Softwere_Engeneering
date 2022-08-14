@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\bin\Debug\net5.0\P02_CommonElementsProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\bin\Debug\net5.0\P02_CommonElementsProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\bin\Debug\net5.0\P02_CommonElementsProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\bin\Debug\net5.0\P02_CommonElementsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\bin\Debug\net5.0\P02_CommonElementsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\bin\Debug\net5.0\ref\P02_CommonElementsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\bin\Debug\net5.0\P02_CommonElementsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\obj\Debug\net5.0\P02_CommonElementsProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\obj\Debug\net5.0\P02_CommonElementsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\obj\Debug\net5.0\P02_CommonElementsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\obj\Debug\net5.0\P02_CommonElementsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\obj\Debug\net5.0\P02_CommonElementsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\obj\Debug\net5.0\P02_CommonElementsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\obj\Debug\net5.0\ref\P02_CommonElementsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\obj\Debug\net5.0\P02_CommonElementsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P02_CommonElementsProject\obj\Debug\net5.0\P02_CommonElementsProject.genruntimeconfig.cache

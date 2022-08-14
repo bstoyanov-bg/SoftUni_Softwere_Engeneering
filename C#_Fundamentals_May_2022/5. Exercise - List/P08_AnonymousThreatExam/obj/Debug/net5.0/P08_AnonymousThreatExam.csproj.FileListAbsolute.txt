@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\bin\Debug\net5.0\P08_AnonymousThreatExam.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\bin\Debug\net5.0\P08_AnonymousThreatExam.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\bin\Debug\net5.0\P08_AnonymousThreatExam.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\bin\Debug\net5.0\P08_AnonymousThreatExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\bin\Debug\net5.0\P08_AnonymousThreatExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\bin\Debug\net5.0\ref\P08_AnonymousThreatExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\bin\Debug\net5.0\P08_AnonymousThreatExam.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\obj\Debug\net5.0\P08_AnonymousThreatExam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\obj\Debug\net5.0\P08_AnonymousThreatExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\obj\Debug\net5.0\P08_AnonymousThreatExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\obj\Debug\net5.0\P08_AnonymousThreatExam.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\obj\Debug\net5.0\P08_AnonymousThreatExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\obj\Debug\net5.0\P08_AnonymousThreatExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\obj\Debug\net5.0\ref\P08_AnonymousThreatExam.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\obj\Debug\net5.0\P08_AnonymousThreatExam.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P08_AnonymousThreatExam\obj\Debug\net5.0\P08_AnonymousThreatExam.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\bin\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\bin\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\bin\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\bin\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\bin\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\bin\Debug\net5.0\ref\P07_MaxSequenceOfEqualElementsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\bin\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\obj\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\obj\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\obj\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\obj\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\obj\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\obj\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\obj\Debug\net5.0\ref\P07_MaxSequenceOfEqualElementsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\obj\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\Exercise\P07_MaxSequenceOfEqualElementsProject\obj\Debug\net5.0\P07_MaxSequenceOfEqualElementsProject.genruntimeconfig.cache

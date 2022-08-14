@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\bin\Debug\net5.0\P07_WaterOverflowProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\bin\Debug\net5.0\P07_WaterOverflowProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\bin\Debug\net5.0\P07_WaterOverflowProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\bin\Debug\net5.0\P07_WaterOverflowProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\bin\Debug\net5.0\P07_WaterOverflowProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\bin\Debug\net5.0\ref\P07_WaterOverflowProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\bin\Debug\net5.0\P07_WaterOverflowProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\obj\Debug\net5.0\P07_WaterOverflowProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\obj\Debug\net5.0\P07_WaterOverflowProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\obj\Debug\net5.0\P07_WaterOverflowProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\obj\Debug\net5.0\P07_WaterOverflowProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\obj\Debug\net5.0\P07_WaterOverflowProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\obj\Debug\net5.0\ref\P07_WaterOverflowProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\obj\Debug\net5.0\P07_WaterOverflowProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\obj\Debug\net5.0\P07_WaterOverflowProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P07_WaterOverflowProject\obj\Debug\net5.0\P07_WaterOverflowProject.csproj.AssemblyReference.cache

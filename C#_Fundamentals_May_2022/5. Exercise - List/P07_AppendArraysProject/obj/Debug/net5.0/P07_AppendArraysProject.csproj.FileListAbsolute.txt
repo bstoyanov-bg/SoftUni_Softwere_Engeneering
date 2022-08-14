@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\bin\Debug\net5.0\P07_AppendArraysProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\bin\Debug\net5.0\P07_AppendArraysProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\bin\Debug\net5.0\P07_AppendArraysProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\bin\Debug\net5.0\P07_AppendArraysProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\bin\Debug\net5.0\P07_AppendArraysProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\bin\Debug\net5.0\ref\P07_AppendArraysProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\bin\Debug\net5.0\P07_AppendArraysProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\obj\Debug\net5.0\P07_AppendArraysProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\obj\Debug\net5.0\P07_AppendArraysProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\obj\Debug\net5.0\P07_AppendArraysProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\obj\Debug\net5.0\P07_AppendArraysProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\obj\Debug\net5.0\P07_AppendArraysProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\obj\Debug\net5.0\P07_AppendArraysProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\obj\Debug\net5.0\ref\P07_AppendArraysProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\obj\Debug\net5.0\P07_AppendArraysProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\5. List\Exercise\P07_AppendArraysProject\obj\Debug\net5.0\P07_AppendArraysProject.genruntimeconfig.cache

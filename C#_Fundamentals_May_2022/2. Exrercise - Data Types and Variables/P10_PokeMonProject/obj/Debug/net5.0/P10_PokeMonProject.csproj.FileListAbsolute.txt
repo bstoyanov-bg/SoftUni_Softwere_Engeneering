@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\bin\Debug\net5.0\P10_PokeMonProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\bin\Debug\net5.0\P10_PokeMonProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\bin\Debug\net5.0\P10_PokeMonProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\bin\Debug\net5.0\P10_PokeMonProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\bin\Debug\net5.0\P10_PokeMonProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\bin\Debug\net5.0\ref\P10_PokeMonProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\bin\Debug\net5.0\P10_PokeMonProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\obj\Debug\net5.0\P10_PokeMonProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\obj\Debug\net5.0\P10_PokeMonProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\obj\Debug\net5.0\P10_PokeMonProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\obj\Debug\net5.0\P10_PokeMonProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\obj\Debug\net5.0\P10_PokeMonProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\obj\Debug\net5.0\ref\P10_PokeMonProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\obj\Debug\net5.0\P10_PokeMonProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\obj\Debug\net5.0\P10_PokeMonProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. Exrercise - Data Types and Variables\P10_PokeMonProject\obj\Debug\net5.0\P10_PokeMonProject.csproj.AssemblyReference.cache

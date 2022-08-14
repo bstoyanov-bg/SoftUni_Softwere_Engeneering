@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\bin\Debug\net5.0\P07_NxN_MatrixProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\bin\Debug\net5.0\P07_NxN_MatrixProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\bin\Debug\net5.0\P07_NxN_MatrixProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\bin\Debug\net5.0\P07_NxN_MatrixProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\bin\Debug\net5.0\P07_NxN_MatrixProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\bin\Debug\net5.0\ref\P07_NxN_MatrixProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\bin\Debug\net5.0\P07_NxN_MatrixProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\obj\Debug\net5.0\P07_NxN_MatrixProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\obj\Debug\net5.0\P07_NxN_MatrixProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\obj\Debug\net5.0\P07_NxN_MatrixProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\obj\Debug\net5.0\P07_NxN_MatrixProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\obj\Debug\net5.0\P07_NxN_MatrixProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\obj\Debug\net5.0\ref\P07_NxN_MatrixProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\obj\Debug\net5.0\P07_NxN_MatrixProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P07_NxN_MatrixProject\obj\Debug\net5.0\P07_NxN_MatrixProject.genruntimeconfig.cache

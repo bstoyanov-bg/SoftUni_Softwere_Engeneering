@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P11_SnowballsProject/1.0.0": {
+        "runtime": {
+          "P11_SnowballsProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P11_SnowballsProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

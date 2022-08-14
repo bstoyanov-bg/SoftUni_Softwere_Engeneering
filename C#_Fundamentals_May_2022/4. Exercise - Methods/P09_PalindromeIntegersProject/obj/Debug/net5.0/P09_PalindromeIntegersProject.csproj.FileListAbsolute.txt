@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\bin\Debug\net5.0\P09_PalindromeIntegersProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\bin\Debug\net5.0\P09_PalindromeIntegersProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\bin\Debug\net5.0\P09_PalindromeIntegersProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\bin\Debug\net5.0\P09_PalindromeIntegersProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\bin\Debug\net5.0\P09_PalindromeIntegersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\bin\Debug\net5.0\ref\P09_PalindromeIntegersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\bin\Debug\net5.0\P09_PalindromeIntegersProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\obj\Debug\net5.0\P09_PalindromeIntegersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\obj\Debug\net5.0\P09_PalindromeIntegersProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\obj\Debug\net5.0\P09_PalindromeIntegersProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\obj\Debug\net5.0\P09_PalindromeIntegersProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\obj\Debug\net5.0\P09_PalindromeIntegersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\obj\Debug\net5.0\ref\P09_PalindromeIntegersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\obj\Debug\net5.0\P09_PalindromeIntegersProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\4. Methods\Exercise\P09_PalindromeIntegersProject\obj\Debug\net5.0\P09_PalindromeIntegersProject.genruntimeconfig.cache
