@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\bin\Debug\net5.0\P04_SoftUniParkingProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\bin\Debug\net5.0\P04_SoftUniParkingProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\bin\Debug\net5.0\P04_SoftUniParkingProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\bin\Debug\net5.0\P04_SoftUniParkingProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\bin\Debug\net5.0\P04_SoftUniParkingProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\bin\Debug\net5.0\P04_SoftUniParkingProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\obj\Debug\net5.0\P04_SoftUniParkingProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\obj\Debug\net5.0\P04_SoftUniParkingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\obj\Debug\net5.0\P04_SoftUniParkingProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\obj\Debug\net5.0\P04_SoftUniParkingProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\obj\Debug\net5.0\P04_SoftUniParkingProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\obj\Debug\net5.0\P04_SoftUniParkingProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\obj\Debug\net5.0\refint\P04_SoftUniParkingProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\obj\Debug\net5.0\P04_SoftUniParkingProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\obj\Debug\net5.0\P04_SoftUniParkingProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P04_SoftUniParkingProject\obj\Debug\net5.0\ref\P04_SoftUniParkingProject.dll

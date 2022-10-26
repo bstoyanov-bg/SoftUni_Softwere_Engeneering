@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\bin\Debug\net5.0\P02_RaceProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\bin\Debug\net5.0\P02_RaceProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\bin\Debug\net5.0\P02_RaceProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\bin\Debug\net5.0\P02_RaceProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\bin\Debug\net5.0\P02_RaceProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\bin\Debug\net5.0\P02_RaceProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\obj\Debug\net5.0\P02_RaceProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\obj\Debug\net5.0\P02_RaceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\obj\Debug\net5.0\P02_RaceProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\obj\Debug\net5.0\P02_RaceProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\obj\Debug\net5.0\P02_RaceProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\obj\Debug\net5.0\P02_RaceProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\obj\Debug\net5.0\refint\P02_RaceProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\obj\Debug\net5.0\P02_RaceProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\obj\Debug\net5.0\P02_RaceProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P02_RaceProject\obj\Debug\net5.0\ref\P02_RaceProject.dll

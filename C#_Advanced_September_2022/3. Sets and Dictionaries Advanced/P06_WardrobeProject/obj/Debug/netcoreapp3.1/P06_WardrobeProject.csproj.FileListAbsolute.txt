@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\bin\Debug\netcoreapp3.1\P06_WardrobeProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\bin\Debug\netcoreapp3.1\P06_WardrobeProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\bin\Debug\netcoreapp3.1\P06_WardrobeProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\bin\Debug\netcoreapp3.1\P06_WardrobeProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\bin\Debug\netcoreapp3.1\P06_WardrobeProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\bin\Debug\netcoreapp3.1\P06_WardrobeProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\obj\Debug\netcoreapp3.1\P06_WardrobeProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\obj\Debug\netcoreapp3.1\P06_WardrobeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\obj\Debug\netcoreapp3.1\P06_WardrobeProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\obj\Debug\netcoreapp3.1\P06_WardrobeProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\obj\Debug\netcoreapp3.1\P06_WardrobeProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\obj\Debug\netcoreapp3.1\P06_WardrobeProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\obj\Debug\netcoreapp3.1\P06_WardrobeProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P06_WardrobeProject\obj\Debug\netcoreapp3.1\P06_WardrobeProject.genruntimeconfig.cache

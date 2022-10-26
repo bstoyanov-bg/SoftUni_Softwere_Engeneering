@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\bin\Debug\netcoreapp3.1\P05_CountSymbolsProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\bin\Debug\netcoreapp3.1\P05_CountSymbolsProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\bin\Debug\netcoreapp3.1\P05_CountSymbolsProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\bin\Debug\netcoreapp3.1\P05_CountSymbolsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\bin\Debug\netcoreapp3.1\P05_CountSymbolsProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\bin\Debug\netcoreapp3.1\P05_CountSymbolsProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\obj\Debug\netcoreapp3.1\P05_CountSymbolsProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\obj\Debug\netcoreapp3.1\P05_CountSymbolsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\obj\Debug\netcoreapp3.1\P05_CountSymbolsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\obj\Debug\netcoreapp3.1\P05_CountSymbolsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\obj\Debug\netcoreapp3.1\P05_CountSymbolsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\obj\Debug\netcoreapp3.1\P05_CountSymbolsProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\obj\Debug\netcoreapp3.1\P05_CountSymbolsProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P05_CountSymbolsProject\obj\Debug\netcoreapp3.1\P05_CountSymbolsProject.genruntimeconfig.cache

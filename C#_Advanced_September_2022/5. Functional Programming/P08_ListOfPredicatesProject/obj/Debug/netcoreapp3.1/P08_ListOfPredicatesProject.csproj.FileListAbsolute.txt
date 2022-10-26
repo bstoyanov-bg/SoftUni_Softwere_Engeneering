@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\bin\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\bin\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\bin\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\bin\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\bin\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\bin\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\obj\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\obj\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\obj\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\obj\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\obj\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\obj\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\obj\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P08_ListOfPredicatesProject\obj\Debug\netcoreapp3.1\P08_ListOfPredicatesProject.genruntimeconfig.cache

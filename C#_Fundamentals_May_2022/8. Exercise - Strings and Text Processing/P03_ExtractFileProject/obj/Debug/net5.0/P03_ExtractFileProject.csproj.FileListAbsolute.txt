@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\bin\Debug\net5.0\P03_ExtractFileProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\bin\Debug\net5.0\P03_ExtractFileProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\bin\Debug\net5.0\P03_ExtractFileProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\bin\Debug\net5.0\P03_ExtractFileProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\bin\Debug\net5.0\P03_ExtractFileProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\bin\Debug\net5.0\P03_ExtractFileProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\obj\Debug\net5.0\P03_ExtractFileProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\obj\Debug\net5.0\P03_ExtractFileProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\obj\Debug\net5.0\P03_ExtractFileProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\obj\Debug\net5.0\P03_ExtractFileProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\obj\Debug\net5.0\P03_ExtractFileProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\obj\Debug\net5.0\P03_ExtractFileProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\obj\Debug\net5.0\refint\P03_ExtractFileProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\obj\Debug\net5.0\P03_ExtractFileProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\obj\Debug\net5.0\P03_ExtractFileProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P03_ExtractFileProject\obj\Debug\net5.0\ref\P03_ExtractFileProject.dll

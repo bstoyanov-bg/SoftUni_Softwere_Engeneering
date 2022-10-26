@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\bin\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\bin\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\bin\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\bin\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\bin\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\bin\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\obj\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\obj\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\obj\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\obj\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\obj\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\obj\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\obj\Debug\net5.0\refint\P01_EncryptSortAndPrintArrayMore.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\obj\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\obj\Debug\net5.0\P01_EncryptSortAndPrintArrayMore.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\3. Arrays\More Exercise\P01_EncryptSortAndPrintArrayMore\obj\Debug\net5.0\ref\P01_EncryptSortAndPrintArrayMore.dll

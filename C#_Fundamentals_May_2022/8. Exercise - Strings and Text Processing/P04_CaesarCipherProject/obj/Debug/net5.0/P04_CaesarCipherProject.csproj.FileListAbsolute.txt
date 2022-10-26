@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\bin\Debug\net5.0\P04_CaesarCipherProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\bin\Debug\net5.0\P04_CaesarCipherProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\bin\Debug\net5.0\P04_CaesarCipherProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\bin\Debug\net5.0\P04_CaesarCipherProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\bin\Debug\net5.0\P04_CaesarCipherProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\bin\Debug\net5.0\P04_CaesarCipherProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\obj\Debug\net5.0\P04_CaesarCipherProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\obj\Debug\net5.0\P04_CaesarCipherProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\obj\Debug\net5.0\P04_CaesarCipherProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\obj\Debug\net5.0\P04_CaesarCipherProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\obj\Debug\net5.0\P04_CaesarCipherProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\obj\Debug\net5.0\P04_CaesarCipherProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\obj\Debug\net5.0\refint\P04_CaesarCipherProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\obj\Debug\net5.0\P04_CaesarCipherProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\obj\Debug\net5.0\P04_CaesarCipherProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P04_CaesarCipherProject\obj\Debug\net5.0\ref\P04_CaesarCipherProject.dll

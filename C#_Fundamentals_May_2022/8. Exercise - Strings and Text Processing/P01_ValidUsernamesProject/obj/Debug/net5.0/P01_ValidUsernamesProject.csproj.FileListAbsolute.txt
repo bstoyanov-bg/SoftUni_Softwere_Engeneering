@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\bin\Debug\net5.0\P01_ValidUsernamesProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\bin\Debug\net5.0\P01_ValidUsernamesProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\bin\Debug\net5.0\P01_ValidUsernamesProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\bin\Debug\net5.0\P01_ValidUsernamesProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\bin\Debug\net5.0\P01_ValidUsernamesProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\bin\Debug\net5.0\P01_ValidUsernamesProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\obj\Debug\net5.0\P01_ValidUsernamesProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\obj\Debug\net5.0\P01_ValidUsernamesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\obj\Debug\net5.0\P01_ValidUsernamesProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\obj\Debug\net5.0\P01_ValidUsernamesProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\obj\Debug\net5.0\P01_ValidUsernamesProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\obj\Debug\net5.0\P01_ValidUsernamesProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\obj\Debug\net5.0\refint\P01_ValidUsernamesProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\obj\Debug\net5.0\P01_ValidUsernamesProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\obj\Debug\net5.0\P01_ValidUsernamesProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P01_ValidUsernamesProject\obj\Debug\net5.0\ref\P01_ValidUsernamesProject.dll

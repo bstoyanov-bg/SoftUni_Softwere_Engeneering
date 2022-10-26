@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\bin\Debug\netcoreapp3.1\P05_SnakeMovesProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\bin\Debug\netcoreapp3.1\P05_SnakeMovesProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\bin\Debug\netcoreapp3.1\P05_SnakeMovesProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\bin\Debug\netcoreapp3.1\P05_SnakeMovesProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\bin\Debug\netcoreapp3.1\P05_SnakeMovesProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\bin\Debug\netcoreapp3.1\P05_SnakeMovesProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\obj\Debug\netcoreapp3.1\P05_SnakeMovesProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\obj\Debug\netcoreapp3.1\P05_SnakeMovesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\obj\Debug\netcoreapp3.1\P05_SnakeMovesProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\obj\Debug\netcoreapp3.1\P05_SnakeMovesProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\obj\Debug\netcoreapp3.1\P05_SnakeMovesProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\obj\Debug\netcoreapp3.1\P05_SnakeMovesProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\obj\Debug\netcoreapp3.1\P05_SnakeMovesProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P05_SnakeMovesProject\obj\Debug\netcoreapp3.1\P05_SnakeMovesProject.genruntimeconfig.cache

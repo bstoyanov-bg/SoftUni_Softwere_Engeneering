@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\bin\Debug\net5.0\P07_StringExplosionProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\bin\Debug\net5.0\P07_StringExplosionProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\bin\Debug\net5.0\P07_StringExplosionProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\bin\Debug\net5.0\P07_StringExplosionProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\bin\Debug\net5.0\P07_StringExplosionProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\bin\Debug\net5.0\P07_StringExplosionProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\obj\Debug\net5.0\P07_StringExplosionProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\obj\Debug\net5.0\P07_StringExplosionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\obj\Debug\net5.0\P07_StringExplosionProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\obj\Debug\net5.0\P07_StringExplosionProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\obj\Debug\net5.0\P07_StringExplosionProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\obj\Debug\net5.0\P07_StringExplosionProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\obj\Debug\net5.0\refint\P07_StringExplosionProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\obj\Debug\net5.0\P07_StringExplosionProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\obj\Debug\net5.0\P07_StringExplosionProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P07_StringExplosionProject\obj\Debug\net5.0\ref\P07_StringExplosionProject.dll

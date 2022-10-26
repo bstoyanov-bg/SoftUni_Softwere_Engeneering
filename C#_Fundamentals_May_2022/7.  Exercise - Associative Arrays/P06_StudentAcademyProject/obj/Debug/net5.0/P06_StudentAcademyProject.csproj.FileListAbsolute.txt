@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\bin\Debug\net5.0\P06_StudentAcademyProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\bin\Debug\net5.0\P06_StudentAcademyProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\bin\Debug\net5.0\P06_StudentAcademyProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\bin\Debug\net5.0\P06_StudentAcademyProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\bin\Debug\net5.0\P06_StudentAcademyProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\bin\Debug\net5.0\P06_StudentAcademyProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\obj\Debug\net5.0\P06_StudentAcademyProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\obj\Debug\net5.0\P06_StudentAcademyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\obj\Debug\net5.0\P06_StudentAcademyProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\obj\Debug\net5.0\P06_StudentAcademyProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\obj\Debug\net5.0\P06_StudentAcademyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\obj\Debug\net5.0\P06_StudentAcademyProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\obj\Debug\net5.0\refint\P06_StudentAcademyProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\obj\Debug\net5.0\P06_StudentAcademyProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\obj\Debug\net5.0\P06_StudentAcademyProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P06_StudentAcademyProject\obj\Debug\net5.0\ref\P06_StudentAcademyProject.dll

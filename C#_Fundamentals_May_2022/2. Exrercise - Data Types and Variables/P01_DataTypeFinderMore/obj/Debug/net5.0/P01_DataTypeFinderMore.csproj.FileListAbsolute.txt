@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\bin\Debug\net5.0\P01_DataTypeFinderMore.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\bin\Debug\net5.0\P01_DataTypeFinderMore.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\bin\Debug\net5.0\P01_DataTypeFinderMore.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\bin\Debug\net5.0\P01_DataTypeFinderMore.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\bin\Debug\net5.0\P01_DataTypeFinderMore.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\bin\Debug\net5.0\ref\P01_DataTypeFinderMore.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\bin\Debug\net5.0\P01_DataTypeFinderMore.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\obj\Debug\net5.0\P01_DataTypeFinderMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\obj\Debug\net5.0\P01_DataTypeFinderMore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\obj\Debug\net5.0\P01_DataTypeFinderMore.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\obj\Debug\net5.0\P01_DataTypeFinderMore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\obj\Debug\net5.0\P01_DataTypeFinderMore.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\obj\Debug\net5.0\ref\P01_DataTypeFinderMore.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\obj\Debug\net5.0\P01_DataTypeFinderMore.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\obj\Debug\net5.0\P01_DataTypeFinderMore.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\2. More - Data Types and Variables\P01_DataTypeFinderMore\obj\Debug\net5.0\P01_DataTypeFinderMore.csproj.AssemblyReference.cache

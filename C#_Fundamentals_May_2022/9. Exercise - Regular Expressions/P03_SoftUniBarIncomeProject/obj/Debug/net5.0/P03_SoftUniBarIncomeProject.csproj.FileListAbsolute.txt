@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\bin\Debug\net5.0\P03_SoftUniBarIncomeProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\bin\Debug\net5.0\P03_SoftUniBarIncomeProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\bin\Debug\net5.0\P03_SoftUniBarIncomeProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\bin\Debug\net5.0\P03_SoftUniBarIncomeProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\bin\Debug\net5.0\P03_SoftUniBarIncomeProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\bin\Debug\net5.0\P03_SoftUniBarIncomeProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\obj\Debug\net5.0\P03_SoftUniBarIncomeProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\obj\Debug\net5.0\P03_SoftUniBarIncomeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\obj\Debug\net5.0\P03_SoftUniBarIncomeProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\obj\Debug\net5.0\P03_SoftUniBarIncomeProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\obj\Debug\net5.0\P03_SoftUniBarIncomeProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\obj\Debug\net5.0\P03_SoftUniBarIncomeProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\obj\Debug\net5.0\refint\P03_SoftUniBarIncomeProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\obj\Debug\net5.0\P03_SoftUniBarIncomeProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\obj\Debug\net5.0\P03_SoftUniBarIncomeProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P03_SoftUniBarIncomeProject\obj\Debug\net5.0\ref\P03_SoftUniBarIncomeProject.dll

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\bin\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\bin\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\bin\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\bin\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\bin\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\bin\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\obj\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\obj\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\obj\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\obj\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\obj\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\obj\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\obj\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P04_FindEvensOrOddsProject\obj\Debug\netcoreapp3.1\P04_FindEvensOrOddsProject.genruntimeconfig.cache

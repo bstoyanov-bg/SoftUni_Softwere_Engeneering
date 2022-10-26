@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\bin\Debug\net5.0\P01_CompanyRosterMore.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\bin\Debug\net5.0\P01_CompanyRosterMore.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\bin\Debug\net5.0\P01_CompanyRosterMore.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\bin\Debug\net5.0\P01_CompanyRosterMore.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\bin\Debug\net5.0\P01_CompanyRosterMore.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\bin\Debug\net5.0\P01_CompanyRosterMore.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\obj\Debug\net5.0\P01_CompanyRosterMore.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\obj\Debug\net5.0\P01_CompanyRosterMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\obj\Debug\net5.0\P01_CompanyRosterMore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\obj\Debug\net5.0\P01_CompanyRosterMore.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\obj\Debug\net5.0\P01_CompanyRosterMore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\obj\Debug\net5.0\P01_CompanyRosterMore.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\obj\Debug\net5.0\refint\P01_CompanyRosterMore.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\obj\Debug\net5.0\P01_CompanyRosterMore.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\obj\Debug\net5.0\P01_CompanyRosterMore.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\6. Objects and Classes\More Exercise\P01_CompanyRosterMore\obj\Debug\net5.0\ref\P01_CompanyRosterMore.dll

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\bin\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\bin\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\bin\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\bin\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\bin\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\bin\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\obj\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\obj\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\obj\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\obj\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\obj\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\obj\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\obj\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P02_KnightsOfHonorProject\obj\Debug\netcoreapp3.1\P02_KnightsOfHonorProject.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\bin\Debug\netcoreapp3.1\P04_EvenTimesProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\bin\Debug\netcoreapp3.1\P04_EvenTimesProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\bin\Debug\netcoreapp3.1\P04_EvenTimesProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\bin\Debug\netcoreapp3.1\P04_EvenTimesProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\bin\Debug\netcoreapp3.1\P04_EvenTimesProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\bin\Debug\netcoreapp3.1\P04_EvenTimesProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\obj\Debug\netcoreapp3.1\P04_EvenTimesProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\obj\Debug\netcoreapp3.1\P04_EvenTimesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\obj\Debug\netcoreapp3.1\P04_EvenTimesProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\obj\Debug\netcoreapp3.1\P04_EvenTimesProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\obj\Debug\netcoreapp3.1\P04_EvenTimesProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\obj\Debug\netcoreapp3.1\P04_EvenTimesProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\obj\Debug\netcoreapp3.1\P04_EvenTimesProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P04_EvenTimesProject\obj\Debug\netcoreapp3.1\P04_EvenTimesProject.genruntimeconfig.cache

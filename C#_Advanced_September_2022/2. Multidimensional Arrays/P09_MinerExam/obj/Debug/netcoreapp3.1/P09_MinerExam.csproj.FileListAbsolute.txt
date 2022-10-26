@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\bin\Debug\netcoreapp3.1\P09_MinerExam.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\bin\Debug\netcoreapp3.1\P09_MinerExam.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\bin\Debug\netcoreapp3.1\P09_MinerExam.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\bin\Debug\netcoreapp3.1\P09_MinerExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\bin\Debug\netcoreapp3.1\P09_MinerExam.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\bin\Debug\netcoreapp3.1\P09_MinerExam.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\obj\Debug\netcoreapp3.1\P09_MinerExam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\obj\Debug\netcoreapp3.1\P09_MinerExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\obj\Debug\netcoreapp3.1\P09_MinerExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\obj\Debug\netcoreapp3.1\P09_MinerExam.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\obj\Debug\netcoreapp3.1\P09_MinerExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\obj\Debug\netcoreapp3.1\P09_MinerExam.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\obj\Debug\netcoreapp3.1\P09_MinerExam.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P09_MinerExam\obj\Debug\netcoreapp3.1\P09_MinerExam.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\bin\Debug\netcoreapp3.1\P07_TheVLoggerExam.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\bin\Debug\netcoreapp3.1\P07_TheVLoggerExam.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\bin\Debug\netcoreapp3.1\P07_TheVLoggerExam.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\bin\Debug\netcoreapp3.1\P07_TheVLoggerExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\bin\Debug\netcoreapp3.1\P07_TheVLoggerExam.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\bin\Debug\netcoreapp3.1\P07_TheVLoggerExam.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\obj\Debug\netcoreapp3.1\P07_TheVLoggerExam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\obj\Debug\netcoreapp3.1\P07_TheVLoggerExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\obj\Debug\netcoreapp3.1\P07_TheVLoggerExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\obj\Debug\netcoreapp3.1\P07_TheVLoggerExam.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\obj\Debug\netcoreapp3.1\P07_TheVLoggerExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\obj\Debug\netcoreapp3.1\P07_TheVLoggerExam.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\obj\Debug\netcoreapp3.1\P07_TheVLoggerExam.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\3. Sets and Dictionaries Advanced\Exercise\P07_TheVLoggerExam\obj\Debug\netcoreapp3.1\P07_TheVLoggerExam.genruntimeconfig.cache

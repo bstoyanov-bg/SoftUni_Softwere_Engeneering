@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\obj\Debug\netcoreapp3.1\P09_PredicatePartyProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\obj\Debug\netcoreapp3.1\P09_PredicatePartyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\obj\Debug\netcoreapp3.1\P09_PredicatePartyProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\obj\Debug\netcoreapp3.1\P09_PredicatePartyProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\obj\Debug\netcoreapp3.1\P09_PredicatePartyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\bin\Debug\netcoreapp3.1\P09_PredicatePartyProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\bin\Debug\netcoreapp3.1\P09_PredicatePartyProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\bin\Debug\netcoreapp3.1\P09_PredicatePartyProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\bin\Debug\netcoreapp3.1\P09_PredicatePartyProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\bin\Debug\netcoreapp3.1\P09_PredicatePartyProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\bin\Debug\netcoreapp3.1\P09_PredicatePartyProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\obj\Debug\netcoreapp3.1\P09_PredicatePartyProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\obj\Debug\netcoreapp3.1\P09_PredicatePartyProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P09_PredicatePartyProject\obj\Debug\netcoreapp3.1\P09_PredicatePartyProject.genruntimeconfig.cache

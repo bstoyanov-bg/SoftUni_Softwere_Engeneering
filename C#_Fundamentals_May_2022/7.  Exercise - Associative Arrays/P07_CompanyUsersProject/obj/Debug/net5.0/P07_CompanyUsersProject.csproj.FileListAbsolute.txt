@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\bin\Debug\net5.0\P07_CompanyUsersProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\bin\Debug\net5.0\P07_CompanyUsersProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\bin\Debug\net5.0\P07_CompanyUsersProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\bin\Debug\net5.0\P07_CompanyUsersProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\bin\Debug\net5.0\P07_CompanyUsersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\bin\Debug\net5.0\P07_CompanyUsersProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\obj\Debug\net5.0\P07_CompanyUsersProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\obj\Debug\net5.0\P07_CompanyUsersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\obj\Debug\net5.0\P07_CompanyUsersProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\obj\Debug\net5.0\P07_CompanyUsersProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\obj\Debug\net5.0\P07_CompanyUsersProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\obj\Debug\net5.0\P07_CompanyUsersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\obj\Debug\net5.0\refint\P07_CompanyUsersProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\obj\Debug\net5.0\P07_CompanyUsersProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\obj\Debug\net5.0\P07_CompanyUsersProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P07_CompanyUsersProject\obj\Debug\net5.0\ref\P07_CompanyUsersProject.dll

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\bin\Debug\net5.0\P01_CountCharsInAStringProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\bin\Debug\net5.0\P01_CountCharsInAStringProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\bin\Debug\net5.0\P01_CountCharsInAStringProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\bin\Debug\net5.0\P01_CountCharsInAStringProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\bin\Debug\net5.0\P01_CountCharsInAStringProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\bin\Debug\net5.0\P01_CountCharsInAStringProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\obj\Debug\net5.0\P01_CountCharsInAStringProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\obj\Debug\net5.0\P01_CountCharsInAStringProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\obj\Debug\net5.0\P01_CountCharsInAStringProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\obj\Debug\net5.0\P01_CountCharsInAStringProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\obj\Debug\net5.0\P01_CountCharsInAStringProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\obj\Debug\net5.0\P01_CountCharsInAStringProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\obj\Debug\net5.0\refint\P01_CountCharsInAStringProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\obj\Debug\net5.0\P01_CountCharsInAStringProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\obj\Debug\net5.0\P01_CountCharsInAStringProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\7. Associative Arrays\Exercise\P01_CountCharsInAStringProject\obj\Debug\net5.0\ref\P01_CountCharsInAStringProject.dll

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\bin\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\bin\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\bin\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\bin\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\bin\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\bin\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\obj\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\obj\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\obj\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\obj\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\obj\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\obj\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\obj\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P02_SquaresInMatrixProject\obj\Debug\netcoreapp3.1\P02_SquaresInMatrixProject.genruntimeconfig.cache

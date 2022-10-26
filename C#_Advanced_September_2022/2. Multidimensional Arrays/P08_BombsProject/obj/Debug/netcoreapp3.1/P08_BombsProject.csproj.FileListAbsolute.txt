@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\bin\Debug\netcoreapp3.1\P08_BombsProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\bin\Debug\netcoreapp3.1\P08_BombsProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\bin\Debug\netcoreapp3.1\P08_BombsProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\bin\Debug\netcoreapp3.1\P08_BombsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\bin\Debug\netcoreapp3.1\P08_BombsProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\bin\Debug\netcoreapp3.1\P08_BombsProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\obj\Debug\netcoreapp3.1\P08_BombsProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\obj\Debug\netcoreapp3.1\P08_BombsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\obj\Debug\netcoreapp3.1\P08_BombsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\obj\Debug\netcoreapp3.1\P08_BombsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\obj\Debug\netcoreapp3.1\P08_BombsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\obj\Debug\netcoreapp3.1\P08_BombsProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\obj\Debug\netcoreapp3.1\P08_BombsProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P08_BombsProject\obj\Debug\netcoreapp3.1\P08_BombsProject.genruntimeconfig.cache

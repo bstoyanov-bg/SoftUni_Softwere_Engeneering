@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\bin\Debug\netcoreapp3.1\P07_KnightGameProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\bin\Debug\netcoreapp3.1\P07_KnightGameProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\bin\Debug\netcoreapp3.1\P07_KnightGameProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\bin\Debug\netcoreapp3.1\P07_KnightGameProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\bin\Debug\netcoreapp3.1\P07_KnightGameProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\bin\Debug\netcoreapp3.1\P07_KnightGameProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\obj\Debug\netcoreapp3.1\P07_KnightGameProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\obj\Debug\netcoreapp3.1\P07_KnightGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\obj\Debug\netcoreapp3.1\P07_KnightGameProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\obj\Debug\netcoreapp3.1\P07_KnightGameProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\obj\Debug\netcoreapp3.1\P07_KnightGameProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\obj\Debug\netcoreapp3.1\P07_KnightGameProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\obj\Debug\netcoreapp3.1\P07_KnightGameProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P07_KnightGameProject\obj\Debug\netcoreapp3.1\P07_KnightGameProject.genruntimeconfig.cache

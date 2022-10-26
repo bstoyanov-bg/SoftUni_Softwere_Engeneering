@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\bin\Debug\netcoreapp3.1\P11_TriFunctionProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\bin\Debug\netcoreapp3.1\P11_TriFunctionProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\bin\Debug\netcoreapp3.1\P11_TriFunctionProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\bin\Debug\netcoreapp3.1\P11_TriFunctionProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\bin\Debug\netcoreapp3.1\P11_TriFunctionProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\bin\Debug\netcoreapp3.1\P11_TriFunctionProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\obj\Debug\netcoreapp3.1\P11_TriFunctionProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\obj\Debug\netcoreapp3.1\P11_TriFunctionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\obj\Debug\netcoreapp3.1\P11_TriFunctionProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\obj\Debug\netcoreapp3.1\P11_TriFunctionProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\obj\Debug\netcoreapp3.1\P11_TriFunctionProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\obj\Debug\netcoreapp3.1\P11_TriFunctionProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\obj\Debug\netcoreapp3.1\P11_TriFunctionProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P11_TriFunctionProject\obj\Debug\netcoreapp3.1\P11_TriFunctionProject.genruntimeconfig.cache

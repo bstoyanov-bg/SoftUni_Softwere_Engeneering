@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\bin\Debug\net5.0\P02_CharacterMultiplierProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\bin\Debug\net5.0\P02_CharacterMultiplierProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\bin\Debug\net5.0\P02_CharacterMultiplierProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\bin\Debug\net5.0\P02_CharacterMultiplierProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\bin\Debug\net5.0\P02_CharacterMultiplierProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\bin\Debug\net5.0\P02_CharacterMultiplierProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\obj\Debug\net5.0\P02_CharacterMultiplierProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\obj\Debug\net5.0\P02_CharacterMultiplierProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\obj\Debug\net5.0\P02_CharacterMultiplierProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\obj\Debug\net5.0\P02_CharacterMultiplierProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\obj\Debug\net5.0\P02_CharacterMultiplierProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\obj\Debug\net5.0\P02_CharacterMultiplierProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\obj\Debug\net5.0\refint\P02_CharacterMultiplierProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\obj\Debug\net5.0\P02_CharacterMultiplierProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\obj\Debug\net5.0\P02_CharacterMultiplierProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P02_CharacterMultiplierProject\obj\Debug\net5.0\ref\P02_CharacterMultiplierProject.dll

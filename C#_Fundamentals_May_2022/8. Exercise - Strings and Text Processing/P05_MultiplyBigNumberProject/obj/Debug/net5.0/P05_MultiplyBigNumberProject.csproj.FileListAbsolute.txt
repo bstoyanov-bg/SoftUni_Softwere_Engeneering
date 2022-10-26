@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\bin\Debug\net5.0\P05_MultiplyBigNumberProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\bin\Debug\net5.0\P05_MultiplyBigNumberProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\bin\Debug\net5.0\P05_MultiplyBigNumberProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\bin\Debug\net5.0\P05_MultiplyBigNumberProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\bin\Debug\net5.0\P05_MultiplyBigNumberProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\bin\Debug\net5.0\P05_MultiplyBigNumberProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\obj\Debug\net5.0\P05_MultiplyBigNumberProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\obj\Debug\net5.0\P05_MultiplyBigNumberProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\obj\Debug\net5.0\P05_MultiplyBigNumberProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\obj\Debug\net5.0\P05_MultiplyBigNumberProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\obj\Debug\net5.0\P05_MultiplyBigNumberProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\obj\Debug\net5.0\P05_MultiplyBigNumberProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\obj\Debug\net5.0\refint\P05_MultiplyBigNumberProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\obj\Debug\net5.0\P05_MultiplyBigNumberProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\obj\Debug\net5.0\P05_MultiplyBigNumberProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\8. Strings and Text Processing\Exercise\P05_MultiplyBigNumberProject\obj\Debug\net5.0\ref\P05_MultiplyBigNumberProject.dll

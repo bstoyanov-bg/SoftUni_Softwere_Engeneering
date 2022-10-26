@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\bin\Debug\net5.0\P06_ExtractEmailsProject.exe
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\bin\Debug\net5.0\P06_ExtractEmailsProject.deps.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\bin\Debug\net5.0\P06_ExtractEmailsProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\bin\Debug\net5.0\P06_ExtractEmailsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\bin\Debug\net5.0\P06_ExtractEmailsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\bin\Debug\net5.0\P06_ExtractEmailsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\obj\Debug\net5.0\P06_ExtractEmailsProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\obj\Debug\net5.0\P06_ExtractEmailsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\obj\Debug\net5.0\P06_ExtractEmailsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\obj\Debug\net5.0\P06_ExtractEmailsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\obj\Debug\net5.0\P06_ExtractEmailsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\obj\Debug\net5.0\P06_ExtractEmailsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\obj\Debug\net5.0\refint\P06_ExtractEmailsProject.dll
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\obj\Debug\net5.0\P06_ExtractEmailsProject.pdb
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\obj\Debug\net5.0\P06_ExtractEmailsProject.genruntimeconfig.cache
+C:\Users\User\source\repos\C#_Fundamentals_May_2022\Fundamentals_May_2022\9. Regular Expressions\Exercise\P06_ExtractEmailsProject\obj\Debug\net5.0\ref\P06_ExtractEmailsProject.dll

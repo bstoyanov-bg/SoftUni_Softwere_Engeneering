@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\bin\Debug\netcoreapp3.1\P01_ActionPointProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\bin\Debug\netcoreapp3.1\P01_ActionPointProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\bin\Debug\netcoreapp3.1\P01_ActionPointProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\bin\Debug\netcoreapp3.1\P01_ActionPointProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\bin\Debug\netcoreapp3.1\P01_ActionPointProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\bin\Debug\netcoreapp3.1\P01_ActionPointProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\obj\Debug\netcoreapp3.1\P01_ActionPointProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\obj\Debug\netcoreapp3.1\P01_ActionPointProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\obj\Debug\netcoreapp3.1\P01_ActionPointProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\obj\Debug\netcoreapp3.1\P01_ActionPointProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\obj\Debug\netcoreapp3.1\P01_ActionPointProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\obj\Debug\netcoreapp3.1\P01_ActionPointProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\obj\Debug\netcoreapp3.1\P01_ActionPointProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\5. Functional Programming\Exercise\P01_ActionPointProject\obj\Debug\netcoreapp3.1\P01_ActionPointProject.genruntimeconfig.cache

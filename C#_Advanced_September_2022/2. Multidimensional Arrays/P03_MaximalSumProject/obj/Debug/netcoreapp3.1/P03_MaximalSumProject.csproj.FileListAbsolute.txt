@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\bin\Debug\netcoreapp3.1\P03_MaximalSumProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\bin\Debug\netcoreapp3.1\P03_MaximalSumProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\bin\Debug\netcoreapp3.1\P03_MaximalSumProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\bin\Debug\netcoreapp3.1\P03_MaximalSumProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\bin\Debug\netcoreapp3.1\P03_MaximalSumProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\bin\Debug\netcoreapp3.1\P03_MaximalSumProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\obj\Debug\netcoreapp3.1\P03_MaximalSumProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\obj\Debug\netcoreapp3.1\P03_MaximalSumProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\obj\Debug\netcoreapp3.1\P03_MaximalSumProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\obj\Debug\netcoreapp3.1\P03_MaximalSumProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\obj\Debug\netcoreapp3.1\P03_MaximalSumProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\obj\Debug\netcoreapp3.1\P03_MaximalSumProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\obj\Debug\netcoreapp3.1\P03_MaximalSumProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P03_MaximalSumProject\obj\Debug\netcoreapp3.1\P03_MaximalSumProject.genruntimeconfig.cache

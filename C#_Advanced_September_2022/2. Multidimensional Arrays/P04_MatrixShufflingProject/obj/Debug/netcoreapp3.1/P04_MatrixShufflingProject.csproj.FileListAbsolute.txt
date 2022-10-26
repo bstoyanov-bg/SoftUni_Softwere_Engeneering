@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\bin\Debug\netcoreapp3.1\P04_MatrixShufflingProject.exe
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\bin\Debug\netcoreapp3.1\P04_MatrixShufflingProject.deps.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\bin\Debug\netcoreapp3.1\P04_MatrixShufflingProject.runtimeconfig.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\bin\Debug\netcoreapp3.1\P04_MatrixShufflingProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\bin\Debug\netcoreapp3.1\P04_MatrixShufflingProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\bin\Debug\netcoreapp3.1\P04_MatrixShufflingProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\obj\Debug\netcoreapp3.1\P04_MatrixShufflingProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\obj\Debug\netcoreapp3.1\P04_MatrixShufflingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\obj\Debug\netcoreapp3.1\P04_MatrixShufflingProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\obj\Debug\netcoreapp3.1\P04_MatrixShufflingProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\obj\Debug\netcoreapp3.1\P04_MatrixShufflingProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\obj\Debug\netcoreapp3.1\P04_MatrixShufflingProject.dll
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\obj\Debug\netcoreapp3.1\P04_MatrixShufflingProject.pdb
+C:\Users\User\source\repos\C#_Advanced_September_2022\Advanced_September_2022\2. Multidimensional Arrays\Exercise\P04_MatrixShufflingProject\obj\Debug\netcoreapp3.1\P04_MatrixShufflingProject.genruntimeconfig.cache
